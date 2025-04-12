@@ -3,7 +3,6 @@ import 'package:rare_disease_app/screens/past%20prediction_screen.dart';
 import 'package:rare_disease_app/screens/prediction_screen.dart';
 import 'package:rare_disease_app/screens/profile_screen.dart';
 
-
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
@@ -29,15 +28,20 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.deepPurple, // Set background color
       appBar: AppBar(
         title: Text(_titles[_currentIndex]),
-        backgroundColor: const Color(0xFF6A1B9A),
+        backgroundColor: Colors.deepPurple,
       ),
-      body: _screens[_currentIndex],
+      body: Container(
+        color: Colors.white, // You can change this to transparent if widgets have their own background
+        child: _screens[_currentIndex],
+      ),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: _currentIndex,
-        selectedItemColor: Colors.purple,
+        selectedItemColor: Colors.deepPurple,
         unselectedItemColor: Colors.grey,
+        backgroundColor: Colors.white,
         onTap: (index) {
           setState(() {
             _currentIndex = index;
