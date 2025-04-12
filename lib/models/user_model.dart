@@ -8,6 +8,7 @@ class UserModel {
   final String? address;
   final String? height;
   final String? weight;
+  final String? bmi;
   final List<String>? pastOperations;
   final List<String>? diseases;
 
@@ -18,6 +19,7 @@ class UserModel {
     required this.age,
     required this.gender,
     required this.phone,
+    this.bmi,
      this.address,
      this.height,
      this.weight,
@@ -34,6 +36,7 @@ class UserModel {
       'age': age,
       'gender': gender,
       'phone': phone,
+      'bmi': bmi ?? '',
       'address': address ?? '',
       'height': height ?? '',
       'weight': weight ?? '',
@@ -50,6 +53,7 @@ class UserModel {
       email: map['email'],
       age: map['age'],
       gender: map['gender'],
+      bmi: map['bmi'],
       phone: map['phone'],
       address: map['address'],
       height: map['height'],

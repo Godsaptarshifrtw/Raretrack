@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:rare_disease_app/screens/profile_screen.dart';
 import 'package:rare_disease_app/screens/signup_screen.dart';
 import 'package:rare_disease_app/services/firebase_service.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -158,18 +159,13 @@ class _LoginScreenState extends State<LoginScreen> {
                                         SnackBar(content: Text("Welcome back, $name!")),
                                       );
 
-                                    /*  Navigator.pushReplacement(
+                                      Navigator.pushReplacement(
                                         context,
                                         MaterialPageRoute(
                                           builder: (_) => ProfileScreen(
-                                            name: name,
-                                            email: emaill,
-                                            gender: gender,
-                                            age: age,
-                                            phone: phone,
                                           ),
                                         ),
-                                      );*/
+                                      );
                                     }
                                   }
                                 } else {
