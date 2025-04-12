@@ -47,3 +47,5 @@ Numpy
 Working:
 The user sends the symptoms and other problems and his own data through a post request and the ML model is run using FASTAPI which is trained on a dataset:https://data.mendeley.com/datasets/2cxccsxydc/1
 this then sends the probable diseases that the user might have and then recommends medicine shops and doctors nearby.
+
+Link to PPT: https://1drv.ms/p/c/5d5cacc9ce8f979e/EcZOK-RIwgNEsiletLGJ_hYBM_j7jGugX9D__RWOii9uMA?e=3vd21H
