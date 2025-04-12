@@ -1,0 +1,1001 @@
+Gender,Age,Disease Name,Symptoms,Disease Duration (days),Medications,Consult Doctor
+Other,66,Tuberculosis,"Night sweats, Fever, Chronic cough, Weight loss",58,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Male,44,Diabetes,"Increased thirst, Frequent urination",49,Metformin (500mg),No
+Other,87,Asthma,"Wheezing, Chest tightness, Shortness of breath",86,Fluticasone (100mcg),No
+Female,76,Diabetes,"Increased thirst, Frequent urination, Fatigue, Blurred vision",26,Insulin (10 units),No
+Other,32,Asthma,"Shortness of breath, Chest tightness, Coughing, Wheezing",81,Fluticasone (100mcg),No
+Other,36,Migraine,"Nausea, Throbbing pain, Sensitivity to light, Aura",76,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Female,86,Tuberculosis,"Weight loss, Chronic cough, Fever",79,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,79,Hypertension,"Nosebleeds, Dizziness, Headache, Shortness of breath",40,"Amlodipine (5mg), Lisinopril (10mg)",No
+Female,28,Asthma,"Shortness of breath, Wheezing",66,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,11,Covid-19,"Fever, Loss of smell",64,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,57,Tuberculosis,"Fever, Night sweats",13,Isoniazid (300mg),No
+Male,43,Diabetes,"Fatigue, Blurred vision, Frequent urination",52,Insulin (10 units),Yes
+Female,18,Flu,"Sore throat, Fever, Sweating, Cough",13,Antihistamine (10mg),Yes
+Other,16,Diabetes,"Blurred vision, Frequent urination",46,"Metformin (500mg), Insulin (10 units)",Yes
+Male,47,Tuberculosis,"Night sweats, Chronic cough, Weight loss, Fever",20,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Other,88,Migraine,"Aura, Throbbing pain, Sensitivity to light",51,Sumatriptan (50mg),No
+Male,31,Asthma,"Coughing, Shortness of breath",18,Albuterol (90mcg),Yes
+Female,56,Hypertension,"Dizziness, Headache",53,Lisinopril (10mg),No
+Other,72,Tuberculosis,"Chronic cough, Night sweats, Fever",51,Isoniazid (300mg),No
+Male,18,Migraine,"Aura, Throbbing pain",27,Sumatriptan (50mg),No
+Female,65,Migraine,"Throbbing pain, Nausea, Aura",82,Sumatriptan (50mg),Yes
+Female,78,Hypertension,"Nosebleeds, Shortness of breath, Headache",65,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,18,Migraine,"Sensitivity to light, Throbbing pain, Aura",56,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Female,83,Covid-19,"Fatigue, Fever",38,Remdesivir (100mg),No
+Female,14,Hypertension,"Nosebleeds, Dizziness, Shortness of breath",35,Amlodipine (5mg),Yes
+Female,4,Asthma,"Coughing, Shortness of breath, Wheezing, Chest tightness",6,Albuterol (90mcg),No
+Male,44,Migraine,"Throbbing pain, Nausea, Sensitivity to light, Aura",36,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,64,Hypertension,"Headache, Shortness of breath, Nosebleeds, Dizziness",13,Lisinopril (10mg),No
+Female,74,Diabetes,"Increased thirst, Fatigue",84,Insulin (10 units),Yes
+Male,59,Migraine,"Nausea, Aura",9,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Other,56,Hypertension,"Dizziness, Headache, Nosebleeds",54,Lisinopril (10mg),Yes
+Male,82,Flu,"Sore throat, Cough, Sweating, Fever",78,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Other,28,Flu,"Fever, Sweating, Sore throat",29,Antihistamine (10mg),Yes
+Other,53,Migraine,"Sensitivity to light, Throbbing pain",30,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Other,27,Asthma,"Shortness of breath, Chest tightness",81,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,78,Covid-19,"Loss of smell, Fatigue",20,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,51,Asthma,"Chest tightness, Coughing, Wheezing, Shortness of breath",67,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Female,89,Migraine,"Aura, Throbbing pain, Nausea, Sensitivity to light",49,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Female,16,Tuberculosis,"Chronic cough, Night sweats, Weight loss, Fever",20,"Rifampicin (600mg), Isoniazid (300mg)",No
+Other,57,Covid-19,"Loss of smell, Cough, Fever",88,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,48,Tuberculosis,"Night sweats, Chronic cough, Fever",33,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Female,12,Asthma,"Wheezing, Shortness of breath",14,Albuterol (90mcg),No
+Male,14,Diabetes,"Fatigue, Blurred vision",41,Insulin (10 units),No
+Female,22,Asthma,"Shortness of breath, Coughing",5,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,71,Diabetes,"Fatigue, Frequent urination",55,"Insulin (10 units), Metformin (500mg)",No
+Male,50,Hypertension,"Headache, Dizziness, Shortness of breath",45,Amlodipine (5mg),No
+Other,45,Diabetes,"Fatigue, Blurred vision, Increased thirst",79,Insulin (10 units),No
+Female,11,Diabetes,"Increased thirst, Fatigue, Frequent urination, Blurred vision",11,"Metformin (500mg), Insulin (10 units)",Yes
+Other,19,Flu,"Sweating, Fever, Sore throat",75,Paracetamol (500mg),Yes
+Male,39,Covid-19,"Loss of smell, Fatigue, Cough",25,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,10,Asthma,"Chest tightness, Coughing, Shortness of breath",22,Albuterol (90mcg),No
+Female,31,Tuberculosis,"Night sweats, Weight loss, Fever, Chronic cough",19,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Male,17,Asthma,"Chest tightness, Shortness of breath, Wheezing, Coughing",29,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Female,41,Asthma,"Wheezing, Chest tightness",77,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Female,78,Migraine,"Nausea, Sensitivity to light",88,Ibuprofen (400mg),No
+Male,42,Covid-19,"Fever, Loss of smell, Fatigue, Cough",8,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Female,51,Flu,"Sore throat, Cough",69,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,56,Flu,"Sore throat, Sweating",63,Paracetamol (500mg),No
+Female,64,Migraine,"Sensitivity to light, Throbbing pain",70,Ibuprofen (400mg),No
+Female,78,Covid-19,"Fatigue, Fever, Loss of smell, Cough",51,Remdesivir (100mg),Yes
+Other,26,Diabetes,"Increased thirst, Fatigue, Frequent urination, Blurred vision",40,"Insulin (10 units), Metformin (500mg)",No
+Other,31,Migraine,"Throbbing pain, Aura",57,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,68,Hypertension,"Nosebleeds, Shortness of breath, Headache",20,"Lisinopril (10mg), Amlodipine (5mg)",No
+Female,35,Tuberculosis,"Weight loss, Chronic cough, Fever",11,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Male,6,Covid-19,"Fever, Loss of smell, Cough",15,Paracetamol (500mg),Yes
+Other,54,Flu,"Fever, Sore throat",70,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,23,Asthma,"Wheezing, Coughing, Shortness of breath",88,Fluticasone (100mcg),Yes
+Female,70,Diabetes,"Increased thirst, Blurred vision, Fatigue, Frequent urination",9,Insulin (10 units),Yes
+Female,17,Tuberculosis,"Fever, Night sweats, Chronic cough, Weight loss",39,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Male,79,Diabetes,"Increased thirst, Frequent urination, Fatigue",81,Metformin (500mg),Yes
+Other,74,Asthma,"Coughing, Shortness of breath, Wheezing",6,Albuterol (90mcg),No
+Other,41,Migraine,"Throbbing pain, Nausea, Sensitivity to light",80,Ibuprofen (400mg),Yes
+Other,70,Flu,"Sore throat, Fever",62,Paracetamol (500mg),Yes
+Female,72,Hypertension,"Headache, Shortness of breath, Dizziness",70,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,33,Flu,"Fever, Sore throat, Sweating",84,"Antihistamine (10mg), Paracetamol (500mg)",No
+Female,78,Tuberculosis,"Fever, Weight loss, Night sweats",69,Rifampicin (600mg),Yes
+Other,43,Asthma,"Wheezing, Chest tightness, Shortness of breath",46,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Male,69,Asthma,"Wheezing, Shortness of breath, Coughing, Chest tightness",62,Fluticasone (100mcg),Yes
+Female,25,Migraine,"Sensitivity to light, Throbbing pain, Aura",83,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,4,Covid-19,"Fatigue, Loss of smell, Fever",73,Paracetamol (500mg),Yes
+Other,45,Migraine,"Aura, Throbbing pain",65,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Other,26,Hypertension,"Shortness of breath, Nosebleeds",63,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Male,60,Asthma,"Shortness of breath, Chest tightness",74,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Female,57,Diabetes,"Frequent urination, Fatigue, Increased thirst",28,"Metformin (500mg), Insulin (10 units)",Yes
+Female,19,Flu,"Sweating, Fever, Cough, Sore throat",70,Antihistamine (10mg),No
+Other,65,Covid-19,"Fever, Loss of smell, Fatigue, Cough",16,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,12,Covid-19,"Cough, Loss of smell, Fever, Fatigue",15,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,86,Covid-19,"Loss of smell, Cough, Fever, Fatigue",36,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,9,Diabetes,"Blurred vision, Increased thirst, Fatigue",13,"Metformin (500mg), Insulin (10 units)",No
+Female,65,Flu,"Cough, Sore throat, Sweating, Fever",9,"Paracetamol (500mg), Antihistamine (10mg)",No
+Other,66,Covid-19,"Fatigue, Cough",82,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,10,Migraine,"Sensitivity to light, Aura",84,Ibuprofen (400mg),No
+Other,24,Hypertension,"Dizziness, Headache",11,Amlodipine (5mg),Yes
+Other,63,Covid-19,"Cough, Fever, Loss of smell",47,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,25,Flu,"Fever, Sweating, Sore throat, Cough",49,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Other,20,Covid-19,"Fever, Cough",76,Remdesivir (100mg),Yes
+Male,45,Asthma,"Shortness of breath, Wheezing, Chest tightness, Coughing",83,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Female,76,Diabetes,"Fatigue, Frequent urination",30,Insulin (10 units),Yes
+Other,40,Diabetes,"Blurred vision, Fatigue, Increased thirst, Frequent urination",90,Metformin (500mg),Yes
+Female,22,Diabetes,"Blurred vision, Increased thirst",59,"Insulin (10 units), Metformin (500mg)",No
+Male,64,Hypertension,"Headache, Nosebleeds, Dizziness",60,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,28,Asthma,"Chest tightness, Coughing, Shortness of breath, Wheezing",78,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Female,66,Hypertension,"Nosebleeds, Shortness of breath",26,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,30,Covid-19,"Fever, Fatigue",33,Paracetamol (500mg),Yes
+Other,81,Asthma,"Wheezing, Coughing",44,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,89,Migraine,"Aura, Nausea, Throbbing pain, Sensitivity to light",83,Sumatriptan (50mg),No
+Other,10,Diabetes,"Frequent urination, Increased thirst, Blurred vision, Fatigue",52,Insulin (10 units),No
+Female,42,Hypertension,"Dizziness, Shortness of breath, Nosebleeds, Headache",47,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,51,Asthma,"Chest tightness, Shortness of breath, Coughing, Wheezing",55,Fluticasone (100mcg),Yes
+Female,82,Diabetes,"Blurred vision, Frequent urination, Increased thirst",21,"Metformin (500mg), Insulin (10 units)",No
+Male,33,Asthma,"Wheezing, Shortness of breath, Chest tightness, Coughing",55,Albuterol (90mcg),Yes
+Female,43,Covid-19,"Loss of smell, Fatigue, Fever, Cough",43,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,31,Asthma,"Coughing, Chest tightness",5,Fluticasone (100mcg),No
+Other,64,Diabetes,"Blurred vision, Increased thirst, Frequent urination, Fatigue",40,Insulin (10 units),Yes
+Other,52,Asthma,"Shortness of breath, Coughing, Chest tightness",58,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Other,70,Hypertension,"Headache, Shortness of breath, Nosebleeds",44,Amlodipine (5mg),Yes
+Other,15,Asthma,"Shortness of breath, Chest tightness, Wheezing, Coughing",19,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Other,90,Migraine,"Aura, Nausea, Throbbing pain",23,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Other,31,Flu,"Sweating, Fever",75,"Paracetamol (500mg), Antihistamine (10mg)",No
+Male,44,Covid-19,"Fatigue, Cough",40,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Other,67,Migraine,"Nausea, Sensitivity to light",74,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Other,28,Hypertension,"Shortness of breath, Nosebleeds, Headache, Dizziness",30,Lisinopril (10mg),Yes
+Male,1,Migraine,"Sensitivity to light, Aura, Nausea, Throbbing pain",41,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,62,Hypertension,"Shortness of breath, Nosebleeds, Headache",65,Lisinopril (10mg),Yes
+Female,77,Migraine,"Throbbing pain, Nausea, Aura, Sensitivity to light",63,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,54,Migraine,"Sensitivity to light, Nausea, Aura",21,Ibuprofen (400mg),Yes
+Male,17,Flu,"Sore throat, Fever, Cough",22,"Paracetamol (500mg), Antihistamine (10mg)",No
+Other,68,Diabetes,"Fatigue, Blurred vision, Frequent urination, Increased thirst",8,"Insulin (10 units), Metformin (500mg)",No
+Other,51,Covid-19,"Cough, Loss of smell, Fatigue",7,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,13,Migraine,"Throbbing pain, Sensitivity to light, Nausea, Aura",29,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,51,Migraine,"Sensitivity to light, Aura, Throbbing pain, Nausea",37,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Male,76,Tuberculosis,"Fever, Weight loss",80,Rifampicin (600mg),No
+Female,88,Migraine,"Sensitivity to light, Nausea",63,Sumatriptan (50mg),No
+Other,2,Asthma,"Coughing, Wheezing",33,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Female,73,Hypertension,"Headache, Dizziness, Nosebleeds",34,Amlodipine (5mg),No
+Female,29,Migraine,"Nausea, Throbbing pain, Sensitivity to light, Aura",9,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Other,21,Flu,"Cough, Fever, Sweating, Sore throat",10,Antihistamine (10mg),No
+Male,45,Asthma,"Shortness of breath, Coughing, Chest tightness, Wheezing",43,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,82,Covid-19,"Loss of smell, Fever, Cough, Fatigue",26,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,38,Flu,"Sweating, Cough, Fever",16,Paracetamol (500mg),Yes
+Male,66,Flu,"Sore throat, Sweating",8,Antihistamine (10mg),No
+Male,58,Flu,"Sweating, Cough, Fever, Sore throat",11,Paracetamol (500mg),No
+Male,43,Diabetes,"Fatigue, Frequent urination, Blurred vision, Increased thirst",21,Insulin (10 units),Yes
+Other,28,Covid-19,"Fatigue, Fever, Loss of smell",70,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,77,Migraine,"Nausea, Aura",90,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,76,Diabetes,"Fatigue, Frequent urination",90,"Metformin (500mg), Insulin (10 units)",Yes
+Male,18,Migraine,"Nausea, Sensitivity to light, Aura, Throbbing pain",24,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,1,Diabetes,"Frequent urination, Blurred vision, Fatigue, Increased thirst",14,Metformin (500mg),No
+Other,29,Covid-19,"Loss of smell, Fever",69,Remdesivir (100mg),Yes
+Other,2,Flu,"Sore throat, Fever, Sweating, Cough",54,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Other,2,Diabetes,"Frequent urination, Increased thirst",65,Insulin (10 units),Yes
+Other,25,Flu,"Cough, Fever",75,Paracetamol (500mg),Yes
+Male,17,Tuberculosis,"Fever, Chronic cough, Night sweats",88,"Rifampicin (600mg), Isoniazid (300mg)",No
+Other,11,Flu,"Cough, Sore throat, Sweating, Fever",9,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Male,69,Migraine,"Aura, Throbbing pain",87,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Other,31,Diabetes,"Increased thirst, Blurred vision, Fatigue, Frequent urination",87,"Insulin (10 units), Metformin (500mg)",No
+Female,81,Covid-19,"Fatigue, Fever, Loss of smell, Cough",74,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,59,Asthma,"Shortness of breath, Wheezing",14,Albuterol (90mcg),Yes
+Male,30,Covid-19,"Fatigue, Cough",83,"Remdesivir (100mg), Paracetamol (500mg)",No
+Other,35,Flu,"Sore throat, Fever, Sweating",68,Antihistamine (10mg),Yes
+Other,20,Diabetes,"Frequent urination, Blurred vision, Increased thirst, Fatigue",48,Insulin (10 units),Yes
+Other,44,Asthma,"Shortness of breath, Chest tightness, Wheezing, Coughing",21,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Other,89,Asthma,"Coughing, Chest tightness, Shortness of breath, Wheezing",57,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Other,11,Hypertension,"Headache, Nosebleeds, Shortness of breath",63,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Male,16,Migraine,"Aura, Throbbing pain",83,Ibuprofen (400mg),No
+Female,59,Covid-19,"Cough, Loss of smell",52,Paracetamol (500mg),Yes
+Other,53,Covid-19,"Fatigue, Cough",74,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,26,Asthma,"Wheezing, Chest tightness, Coughing",23,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,68,Hypertension,"Dizziness, Shortness of breath, Headache, Nosebleeds",41,"Amlodipine (5mg), Lisinopril (10mg)",No
+Female,2,Flu,"Fever, Sweating, Sore throat",23,Antihistamine (10mg),No
+Male,81,Hypertension,"Shortness of breath, Headache, Nosebleeds",65,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,65,Diabetes,"Increased thirst, Blurred vision",65,Metformin (500mg),No
+Other,85,Diabetes,"Fatigue, Frequent urination",85,"Insulin (10 units), Metformin (500mg)",Yes
+Female,35,Tuberculosis,"Fever, Weight loss, Chronic cough, Night sweats",53,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,3,Hypertension,"Headache, Dizziness, Shortness of breath",26,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,18,Tuberculosis,"Chronic cough, Weight loss",17,Rifampicin (600mg),No
+Male,89,Migraine,"Sensitivity to light, Aura, Throbbing pain, Nausea",88,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,10,Migraine,"Throbbing pain, Nausea",5,Sumatriptan (50mg),Yes
+Male,23,Diabetes,"Blurred vision, Increased thirst, Frequent urination",58,Insulin (10 units),No
+Other,8,Flu,"Fever, Sore throat, Sweating, Cough",9,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Male,27,Flu,"Sore throat, Cough",74,Antihistamine (10mg),No
+Other,1,Hypertension,"Headache, Shortness of breath, Dizziness, Nosebleeds",56,"Lisinopril (10mg), Amlodipine (5mg)",No
+Female,55,Tuberculosis,"Chronic cough, Night sweats, Weight loss, Fever",79,Rifampicin (600mg),Yes
+Other,31,Diabetes,"Increased thirst, Frequent urination",31,"Metformin (500mg), Insulin (10 units)",No
+Female,75,Hypertension,"Shortness of breath, Headache, Dizziness, Nosebleeds",88,Lisinopril (10mg),No
+Other,28,Covid-19,"Fever, Loss of smell, Fatigue",16,Paracetamol (500mg),No
+Female,10,Asthma,"Chest tightness, Shortness of breath",84,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Female,28,Tuberculosis,"Chronic cough, Fever, Weight loss, Night sweats",24,Isoniazid (300mg),No
+Female,14,Covid-19,"Loss of smell, Fever",57,Remdesivir (100mg),No
+Female,10,Hypertension,"Nosebleeds, Headache",27,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,85,Covid-19,"Fatigue, Cough, Loss of smell",57,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,37,Flu,"Fever, Sweating, Sore throat",37,"Paracetamol (500mg), Antihistamine (10mg)",No
+Other,45,Hypertension,"Shortness of breath, Nosebleeds, Dizziness",65,Lisinopril (10mg),No
+Male,6,Covid-19,"Fatigue, Loss of smell, Cough",34,Remdesivir (100mg),No
+Male,1,Diabetes,"Frequent urination, Blurred vision, Increased thirst",68,Metformin (500mg),Yes
+Male,13,Asthma,"Coughing, Shortness of breath",38,Albuterol (90mcg),No
+Female,39,Asthma,"Shortness of breath, Coughing, Chest tightness, Wheezing",87,Fluticasone (100mcg),Yes
+Other,74,Flu,"Fever, Sore throat",65,Antihistamine (10mg),Yes
+Other,36,Covid-19,"Fever, Cough, Fatigue",57,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,53,Hypertension,"Headache, Dizziness, Shortness of breath, Nosebleeds",82,"Amlodipine (5mg), Lisinopril (10mg)",No
+Female,1,Tuberculosis,"Fever, Chronic cough, Weight loss, Night sweats",28,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Male,76,Hypertension,"Nosebleeds, Dizziness, Shortness of breath, Headache",63,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,61,Hypertension,"Shortness of breath, Headache, Dizziness",83,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,22,Asthma,"Coughing, Chest tightness",42,Albuterol (90mcg),No
+Other,34,Flu,"Fever, Sweating",14,Antihistamine (10mg),No
+Female,31,Asthma,"Wheezing, Chest tightness, Coughing, Shortness of breath",88,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Male,28,Diabetes,"Frequent urination, Blurred vision",32,Metformin (500mg),Yes
+Female,70,Asthma,"Chest tightness, Shortness of breath, Wheezing, Coughing",21,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Male,79,Covid-19,"Fatigue, Loss of smell, Fever, Cough",12,Remdesivir (100mg),No
+Other,32,Flu,"Sweating, Cough, Sore throat",44,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Female,47,Flu,"Sore throat, Cough",90,"Paracetamol (500mg), Antihistamine (10mg)",No
+Female,49,Tuberculosis,"Chronic cough, Weight loss, Night sweats",14,"Isoniazid (300mg), Rifampicin (600mg)",No
+Female,57,Tuberculosis,"Fever, Night sweats, Weight loss, Chronic cough",27,Isoniazid (300mg),Yes
+Other,68,Flu,"Sweating, Fever",54,Paracetamol (500mg),Yes
+Other,73,Hypertension,"Shortness of breath, Headache, Dizziness, Nosebleeds",34,Amlodipine (5mg),No
+Other,56,Covid-19,"Loss of smell, Fever",29,"Remdesivir (100mg), Paracetamol (500mg)",No
+Male,44,Tuberculosis,"Night sweats, Fever",53,Isoniazid (300mg),No
+Male,45,Migraine,"Sensitivity to light, Throbbing pain",78,Ibuprofen (400mg),No
+Male,84,Covid-19,"Fatigue, Loss of smell, Fever",15,Remdesivir (100mg),Yes
+Other,79,Flu,"Cough, Sweating",58,Paracetamol (500mg),Yes
+Female,20,Covid-19,"Fever, Loss of smell, Fatigue, Cough",12,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,10,Migraine,"Throbbing pain, Aura, Nausea, Sensitivity to light",13,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Other,66,Flu,"Sweating, Sore throat, Cough, Fever",81,Antihistamine (10mg),Yes
+Female,56,Migraine,"Aura, Sensitivity to light, Nausea",26,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Female,49,Covid-19,"Fatigue, Loss of smell, Fever, Cough",7,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,33,Asthma,"Shortness of breath, Chest tightness, Coughing, Wheezing",60,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Male,53,Hypertension,"Dizziness, Nosebleeds",47,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Other,27,Hypertension,"Nosebleeds, Shortness of breath",20,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,90,Migraine,"Aura, Sensitivity to light, Throbbing pain, Nausea",28,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Other,36,Hypertension,"Headache, Nosebleeds, Dizziness",73,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,16,Asthma,"Wheezing, Shortness of breath, Coughing, Chest tightness",29,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Other,53,Flu,"Sweating, Cough, Fever",51,"Paracetamol (500mg), Antihistamine (10mg)",No
+Female,39,Tuberculosis,"Chronic cough, Night sweats",6,"Isoniazid (300mg), Rifampicin (600mg)",No
+Male,38,Flu,"Sore throat, Fever, Cough",29,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Female,70,Hypertension,"Shortness of breath, Dizziness, Headache",45,Amlodipine (5mg),No
+Other,24,Flu,"Sore throat, Sweating, Fever, Cough",26,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Other,35,Migraine,"Throbbing pain, Aura, Nausea",88,Sumatriptan (50mg),No
+Female,2,Hypertension,"Dizziness, Nosebleeds, Shortness of breath",21,Amlodipine (5mg),No
+Male,43,Tuberculosis,"Weight loss, Chronic cough, Fever, Night sweats",87,Isoniazid (300mg),No
+Male,77,Asthma,"Shortness of breath, Chest tightness",30,Albuterol (90mcg),No
+Other,33,Diabetes,"Blurred vision, Fatigue, Increased thirst",70,Insulin (10 units),No
+Other,43,Tuberculosis,"Night sweats, Fever, Weight loss, Chronic cough",38,Rifampicin (600mg),No
+Male,5,Asthma,"Shortness of breath, Chest tightness, Wheezing, Coughing",74,Albuterol (90mcg),No
+Male,28,Diabetes,"Fatigue, Blurred vision, Increased thirst, Frequent urination",55,Insulin (10 units),Yes
+Male,33,Asthma,"Wheezing, Shortness of breath, Chest tightness",76,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Other,36,Hypertension,"Dizziness, Headache, Nosebleeds, Shortness of breath",26,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,90,Covid-19,"Cough, Loss of smell",53,Remdesivir (100mg),Yes
+Female,1,Asthma,"Chest tightness, Coughing, Shortness of breath, Wheezing",51,Albuterol (90mcg),No
+Other,87,Hypertension,"Shortness of breath, Dizziness, Headache, Nosebleeds",34,Lisinopril (10mg),Yes
+Female,38,Flu,"Sore throat, Cough",25,Antihistamine (10mg),Yes
+Other,54,Diabetes,"Fatigue, Increased thirst, Blurred vision",16,"Metformin (500mg), Insulin (10 units)",Yes
+Other,24,Diabetes,"Frequent urination, Blurred vision, Fatigue",12,Insulin (10 units),Yes
+Male,65,Hypertension,"Shortness of breath, Dizziness, Headache, Nosebleeds",31,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,26,Hypertension,"Nosebleeds, Dizziness",6,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,74,Asthma,"Wheezing, Shortness of breath, Chest tightness, Coughing",41,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Female,2,Asthma,"Chest tightness, Shortness of breath",71,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Female,24,Asthma,"Shortness of breath, Coughing",85,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,21,Flu,"Fever, Sore throat, Sweating",81,"Paracetamol (500mg), Antihistamine (10mg)",No
+Female,5,Covid-19,"Fever, Cough, Loss of smell",90,Remdesivir (100mg),Yes
+Male,67,Diabetes,"Blurred vision, Increased thirst",61,Metformin (500mg),No
+Other,87,Migraine,"Aura, Sensitivity to light",25,Ibuprofen (400mg),No
+Other,88,Tuberculosis,"Weight loss, Chronic cough, Fever",33,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,38,Covid-19,"Fatigue, Cough, Loss of smell, Fever",90,Paracetamol (500mg),No
+Female,45,Asthma,"Coughing, Shortness of breath, Wheezing, Chest tightness",86,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Female,9,Migraine,"Throbbing pain, Nausea",67,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,77,Asthma,"Coughing, Chest tightness",27,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,42,Diabetes,"Blurred vision, Frequent urination, Increased thirst",36,"Insulin (10 units), Metformin (500mg)",No
+Male,67,Flu,"Fever, Sore throat, Sweating",23,Paracetamol (500mg),No
+Female,18,Diabetes,"Frequent urination, Increased thirst, Blurred vision",62,"Metformin (500mg), Insulin (10 units)",Yes
+Other,89,Diabetes,"Fatigue, Blurred vision, Frequent urination, Increased thirst",88,"Insulin (10 units), Metformin (500mg)",No
+Female,88,Migraine,"Nausea, Sensitivity to light, Aura",67,Sumatriptan (50mg),Yes
+Male,65,Diabetes,"Fatigue, Increased thirst, Blurred vision, Frequent urination",62,Insulin (10 units),No
+Other,69,Covid-19,"Fever, Loss of smell, Fatigue, Cough",23,Remdesivir (100mg),No
+Female,39,Hypertension,"Nosebleeds, Headache",74,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,12,Hypertension,"Headache, Dizziness, Nosebleeds",24,"Lisinopril (10mg), Amlodipine (5mg)",No
+Female,10,Flu,"Cough, Sore throat, Fever, Sweating",12,Paracetamol (500mg),Yes
+Female,32,Tuberculosis,"Fever, Night sweats",9,Isoniazid (300mg),Yes
+Female,67,Asthma,"Wheezing, Shortness of breath, Coughing, Chest tightness",26,Fluticasone (100mcg),Yes
+Male,13,Covid-19,"Fatigue, Loss of smell, Fever, Cough",63,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,71,Hypertension,"Shortness of breath, Dizziness",82,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,26,Covid-19,"Fatigue, Cough",84,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,3,Diabetes,"Increased thirst, Blurred vision",81,"Insulin (10 units), Metformin (500mg)",No
+Other,38,Tuberculosis,"Night sweats, Chronic cough",52,Isoniazid (300mg),No
+Female,14,Diabetes,"Fatigue, Increased thirst",29,Insulin (10 units),No
+Female,69,Tuberculosis,"Fever, Weight loss, Night sweats, Chronic cough",14,Isoniazid (300mg),Yes
+Male,36,Covid-19,"Cough, Fatigue, Fever",31,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,80,Migraine,"Aura, Sensitivity to light, Nausea",44,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,41,Covid-19,"Cough, Loss of smell, Fatigue",62,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,26,Migraine,"Nausea, Aura, Throbbing pain, Sensitivity to light",18,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Female,55,Covid-19,"Fatigue, Loss of smell, Fever",67,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,1,Asthma,"Chest tightness, Coughing, Wheezing, Shortness of breath",58,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,34,Flu,"Fever, Sore throat, Cough, Sweating",59,Paracetamol (500mg),No
+Female,57,Covid-19,"Loss of smell, Fatigue",89,Remdesivir (100mg),Yes
+Male,6,Migraine,"Aura, Nausea, Throbbing pain",34,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,89,Flu,"Sweating, Sore throat",25,Paracetamol (500mg),No
+Female,11,Diabetes,"Increased thirst, Fatigue, Blurred vision, Frequent urination",6,"Insulin (10 units), Metformin (500mg)",Yes
+Male,75,Flu,"Sweating, Cough, Sore throat, Fever",64,Paracetamol (500mg),No
+Female,64,Covid-19,"Cough, Fever, Fatigue",20,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Other,44,Covid-19,"Fatigue, Fever",52,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Other,25,Migraine,"Sensitivity to light, Aura",57,Ibuprofen (400mg),No
+Female,62,Diabetes,"Frequent urination, Blurred vision, Fatigue",69,Insulin (10 units),No
+Female,6,Asthma,"Chest tightness, Coughing",49,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Male,69,Diabetes,"Fatigue, Increased thirst, Blurred vision",54,"Metformin (500mg), Insulin (10 units)",Yes
+Female,77,Migraine,"Sensitivity to light, Aura, Throbbing pain",41,Ibuprofen (400mg),Yes
+Other,12,Asthma,"Coughing, Wheezing",26,Albuterol (90mcg),No
+Female,20,Asthma,"Coughing, Shortness of breath, Wheezing",89,Albuterol (90mcg),Yes
+Male,85,Asthma,"Chest tightness, Coughing, Shortness of breath, Wheezing",10,Fluticasone (100mcg),Yes
+Other,54,Asthma,"Coughing, Shortness of breath, Wheezing",8,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,57,Tuberculosis,"Weight loss, Night sweats, Chronic cough, Fever",26,Isoniazid (300mg),No
+Female,34,Tuberculosis,"Fever, Weight loss, Chronic cough",59,"Rifampicin (600mg), Isoniazid (300mg)",No
+Female,66,Migraine,"Nausea, Throbbing pain",77,Sumatriptan (50mg),Yes
+Female,28,Hypertension,"Dizziness, Headache",29,Amlodipine (5mg),Yes
+Male,79,Asthma,"Shortness of breath, Coughing, Wheezing, Chest tightness",26,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,3,Asthma,"Wheezing, Chest tightness, Shortness of breath",56,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Female,35,Flu,"Cough, Fever, Sweating, Sore throat",66,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Female,80,Flu,"Sore throat, Cough, Fever, Sweating",55,"Antihistamine (10mg), Paracetamol (500mg)",No
+Female,37,Hypertension,"Nosebleeds, Shortness of breath",9,"Lisinopril (10mg), Amlodipine (5mg)",No
+Male,12,Asthma,"Wheezing, Chest tightness, Shortness of breath, Coughing",81,Fluticasone (100mcg),Yes
+Male,27,Tuberculosis,"Weight loss, Night sweats, Fever, Chronic cough",44,Isoniazid (300mg),No
+Male,36,Asthma,"Wheezing, Coughing",61,Albuterol (90mcg),Yes
+Female,50,Diabetes,"Fatigue, Increased thirst",9,Insulin (10 units),No
+Male,47,Hypertension,"Headache, Shortness of breath, Nosebleeds, Dizziness",10,Lisinopril (10mg),Yes
+Female,52,Tuberculosis,"Night sweats, Chronic cough, Weight loss, Fever",38,Rifampicin (600mg),No
+Male,79,Covid-19,"Cough, Fever, Loss of smell",65,"Remdesivir (100mg), Paracetamol (500mg)",No
+Male,43,Covid-19,"Fever, Cough, Fatigue, Loss of smell",26,Remdesivir (100mg),No
+Female,45,Tuberculosis,"Chronic cough, Night sweats, Fever",56,Isoniazid (300mg),Yes
+Male,52,Tuberculosis,"Fever, Chronic cough, Night sweats, Weight loss",62,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,42,Diabetes,"Blurred vision, Frequent urination, Fatigue, Increased thirst",7,"Metformin (500mg), Insulin (10 units)",No
+Male,11,Flu,"Sore throat, Cough, Fever",19,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Female,21,Tuberculosis,"Fever, Weight loss, Night sweats",41,Isoniazid (300mg),Yes
+Other,83,Diabetes,"Blurred vision, Increased thirst",87,Metformin (500mg),No
+Female,11,Flu,"Sweating, Sore throat",19,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,84,Diabetes,"Frequent urination, Fatigue",87,Metformin (500mg),No
+Other,33,Covid-19,"Loss of smell, Fatigue, Fever, Cough",41,Remdesivir (100mg),No
+Female,83,Tuberculosis,"Fever, Weight loss, Chronic cough",81,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,25,Tuberculosis,"Chronic cough, Fever, Weight loss, Night sweats",53,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,31,Hypertension,"Shortness of breath, Nosebleeds, Dizziness, Headache",33,"Lisinopril (10mg), Amlodipine (5mg)",No
+Male,89,Migraine,"Sensitivity to light, Aura, Throbbing pain, Nausea",54,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Female,80,Flu,"Sweating, Fever, Sore throat",14,Paracetamol (500mg),No
+Male,42,Covid-19,"Loss of smell, Cough",23,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,23,Covid-19,"Loss of smell, Fever",85,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,70,Asthma,"Chest tightness, Shortness of breath, Coughing, Wheezing",49,Fluticasone (100mcg),Yes
+Male,55,Diabetes,"Blurred vision, Frequent urination",65,Metformin (500mg),Yes
+Female,63,Diabetes,"Frequent urination, Fatigue",46,Metformin (500mg),Yes
+Male,58,Migraine,"Throbbing pain, Sensitivity to light, Nausea",47,Ibuprofen (400mg),Yes
+Male,64,Flu,"Sweating, Fever, Cough, Sore throat",42,Antihistamine (10mg),Yes
+Other,26,Diabetes,"Fatigue, Frequent urination, Increased thirst",42,Insulin (10 units),No
+Male,6,Diabetes,"Frequent urination, Blurred vision, Fatigue, Increased thirst",13,"Insulin (10 units), Metformin (500mg)",Yes
+Male,28,Asthma,"Chest tightness, Wheezing, Shortness of breath, Coughing",41,Albuterol (90mcg),No
+Other,46,Migraine,"Sensitivity to light, Aura",47,Sumatriptan (50mg),Yes
+Female,24,Covid-19,"Fatigue, Loss of smell, Fever, Cough",14,Remdesivir (100mg),No
+Female,84,Flu,"Fever, Sore throat",70,Antihistamine (10mg),No
+Other,28,Tuberculosis,"Fever, Weight loss, Chronic cough",9,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Other,5,Hypertension,"Shortness of breath, Dizziness, Nosebleeds",75,Amlodipine (5mg),No
+Male,78,Flu,"Sore throat, Fever, Cough",31,Antihistamine (10mg),No
+Other,84,Covid-19,"Fever, Cough, Fatigue",50,Paracetamol (500mg),No
+Male,55,Diabetes,"Blurred vision, Increased thirst",7,Metformin (500mg),No
+Female,31,Migraine,"Throbbing pain, Nausea, Sensitivity to light",63,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Female,65,Flu,"Sweating, Fever, Sore throat",45,"Antihistamine (10mg), Paracetamol (500mg)",No
+Other,6,Tuberculosis,"Night sweats, Chronic cough, Fever, Weight loss",9,Rifampicin (600mg),Yes
+Female,52,Diabetes,"Frequent urination, Fatigue, Blurred vision, Increased thirst",49,Insulin (10 units),No
+Male,53,Hypertension,"Headache, Dizziness, Nosebleeds, Shortness of breath",15,Amlodipine (5mg),No
+Male,69,Tuberculosis,"Weight loss, Night sweats, Chronic cough, Fever",63,Rifampicin (600mg),No
+Other,39,Diabetes,"Blurred vision, Frequent urination, Increased thirst",76,"Insulin (10 units), Metformin (500mg)",Yes
+Female,49,Asthma,"Chest tightness, Shortness of breath, Wheezing, Coughing",84,Albuterol (90mcg),No
+Male,38,Diabetes,"Frequent urination, Increased thirst",77,"Metformin (500mg), Insulin (10 units)",No
+Other,60,Migraine,"Nausea, Sensitivity to light, Throbbing pain, Aura",47,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,10,Asthma,"Coughing, Wheezing",32,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,73,Migraine,"Sensitivity to light, Nausea, Aura, Throbbing pain",15,Ibuprofen (400mg),No
+Female,16,Diabetes,"Blurred vision, Fatigue",39,"Metformin (500mg), Insulin (10 units)",Yes
+Other,3,Hypertension,"Shortness of breath, Headache",33,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,15,Migraine,"Aura, Nausea, Sensitivity to light",60,Ibuprofen (400mg),No
+Male,38,Asthma,"Chest tightness, Coughing",70,Albuterol (90mcg),No
+Female,51,Diabetes,"Increased thirst, Frequent urination, Blurred vision",33,"Metformin (500mg), Insulin (10 units)",No
+Female,74,Diabetes,"Frequent urination, Increased thirst",61,Insulin (10 units),No
+Female,38,Asthma,"Wheezing, Shortness of breath",38,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,70,Diabetes,"Fatigue, Blurred vision",53,"Insulin (10 units), Metformin (500mg)",No
+Female,21,Hypertension,"Nosebleeds, Dizziness, Shortness of breath, Headache",56,Amlodipine (5mg),Yes
+Male,85,Diabetes,"Fatigue, Blurred vision",38,Metformin (500mg),Yes
+Male,33,Flu,"Sweating, Fever, Cough",37,Antihistamine (10mg),No
+Female,73,Migraine,"Sensitivity to light, Throbbing pain, Nausea",10,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,77,Asthma,"Coughing, Shortness of breath, Chest tightness",23,Albuterol (90mcg),No
+Female,4,Migraine,"Sensitivity to light, Throbbing pain, Aura",69,Sumatriptan (50mg),Yes
+Other,67,Diabetes,"Blurred vision, Fatigue",71,"Metformin (500mg), Insulin (10 units)",No
+Female,71,Covid-19,"Loss of smell, Fever, Fatigue, Cough",11,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Female,32,Covid-19,"Loss of smell, Fever, Cough",67,Paracetamol (500mg),Yes
+Female,22,Migraine,"Aura, Sensitivity to light, Throbbing pain, Nausea",26,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Female,52,Asthma,"Wheezing, Shortness of breath",57,Albuterol (90mcg),No
+Female,61,Asthma,"Shortness of breath, Wheezing",78,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,51,Tuberculosis,"Fever, Weight loss, Chronic cough, Night sweats",50,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Other,54,Asthma,"Chest tightness, Wheezing, Coughing",18,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Other,49,Flu,"Sweating, Cough, Fever, Sore throat",18,Paracetamol (500mg),Yes
+Male,33,Hypertension,"Nosebleeds, Shortness of breath",81,Lisinopril (10mg),No
+Female,84,Tuberculosis,"Fever, Chronic cough, Night sweats",25,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,70,Tuberculosis,"Night sweats, Weight loss, Fever",11,Isoniazid (300mg),No
+Other,87,Hypertension,"Shortness of breath, Dizziness, Nosebleeds, Headache",72,Lisinopril (10mg),No
+Female,46,Asthma,"Wheezing, Shortness of breath, Coughing, Chest tightness",43,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,69,Asthma,"Wheezing, Chest tightness, Shortness of breath, Coughing",41,Fluticasone (100mcg),Yes
+Male,55,Flu,"Sore throat, Cough, Sweating, Fever",6,Paracetamol (500mg),No
+Female,20,Covid-19,"Loss of smell, Fever, Cough",60,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,31,Migraine,"Aura, Throbbing pain",13,Ibuprofen (400mg),No
+Male,69,Asthma,"Shortness of breath, Coughing, Chest tightness, Wheezing",71,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,14,Asthma,"Coughing, Wheezing, Chest tightness, Shortness of breath",77,Fluticasone (100mcg),No
+Female,59,Hypertension,"Shortness of breath, Dizziness, Headache",19,Lisinopril (10mg),No
+Male,2,Covid-19,"Cough, Loss of smell, Fever",83,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,81,Asthma,"Chest tightness, Shortness of breath, Coughing",89,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Female,15,Diabetes,"Fatigue, Frequent urination",15,Insulin (10 units),Yes
+Male,61,Asthma,"Coughing, Shortness of breath, Chest tightness",9,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Other,89,Asthma,"Coughing, Shortness of breath",70,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,27,Asthma,"Coughing, Wheezing, Shortness of breath, Chest tightness",15,Fluticasone (100mcg),No
+Female,77,Covid-19,"Cough, Loss of smell, Fever, Fatigue",75,Paracetamol (500mg),No
+Male,3,Hypertension,"Headache, Shortness of breath, Nosebleeds, Dizziness",71,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,28,Tuberculosis,"Fever, Weight loss, Chronic cough, Night sweats",75,Isoniazid (300mg),Yes
+Female,43,Hypertension,"Shortness of breath, Dizziness, Headache",31,Amlodipine (5mg),No
+Male,43,Diabetes,"Blurred vision, Fatigue",13,"Insulin (10 units), Metformin (500mg)",Yes
+Other,50,Migraine,"Sensitivity to light, Nausea",53,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,57,Flu,"Fever, Sweating, Sore throat, Cough",51,Antihistamine (10mg),Yes
+Female,84,Migraine,"Nausea, Sensitivity to light, Aura",42,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,56,Flu,"Fever, Cough, Sweating",90,Paracetamol (500mg),Yes
+Female,20,Covid-19,"Cough, Fever, Fatigue, Loss of smell",7,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,86,Covid-19,"Fatigue, Cough, Loss of smell, Fever",30,Remdesivir (100mg),Yes
+Other,50,Diabetes,"Fatigue, Frequent urination",75,"Metformin (500mg), Insulin (10 units)",Yes
+Male,12,Diabetes,"Frequent urination, Blurred vision, Increased thirst",75,Insulin (10 units),No
+Male,16,Flu,"Cough, Sore throat",30,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Other,64,Tuberculosis,"Chronic cough, Fever",53,Rifampicin (600mg),No
+Female,77,Asthma,"Coughing, Chest tightness",39,Fluticasone (100mcg),Yes
+Male,47,Tuberculosis,"Chronic cough, Night sweats, Weight loss",16,Rifampicin (600mg),Yes
+Female,29,Hypertension,"Nosebleeds, Shortness of breath",56,Amlodipine (5mg),Yes
+Other,68,Flu,"Sweating, Sore throat, Cough",21,"Paracetamol (500mg), Antihistamine (10mg)",No
+Male,44,Tuberculosis,"Weight loss, Chronic cough",54,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Male,69,Flu,"Sweating, Cough, Sore throat",61,Antihistamine (10mg),Yes
+Male,10,Hypertension,"Dizziness, Headache, Shortness of breath, Nosebleeds",52,Lisinopril (10mg),Yes
+Male,72,Asthma,"Chest tightness, Shortness of breath, Wheezing",21,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Other,22,Tuberculosis,"Fever, Night sweats, Chronic cough",89,Rifampicin (600mg),No
+Female,24,Diabetes,"Increased thirst, Fatigue, Blurred vision",86,"Metformin (500mg), Insulin (10 units)",No
+Female,90,Diabetes,"Frequent urination, Fatigue, Blurred vision",83,Metformin (500mg),Yes
+Other,30,Tuberculosis,"Weight loss, Night sweats, Fever, Chronic cough",61,Isoniazid (300mg),Yes
+Female,9,Covid-19,"Cough, Fatigue, Fever, Loss of smell",56,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,31,Migraine,"Throbbing pain, Sensitivity to light",65,Ibuprofen (400mg),No
+Male,12,Flu,"Cough, Fever",86,"Paracetamol (500mg), Antihistamine (10mg)",No
+Other,71,Covid-19,"Cough, Fever, Fatigue",49,Remdesivir (100mg),No
+Female,49,Diabetes,"Increased thirst, Blurred vision",14,"Metformin (500mg), Insulin (10 units)",Yes
+Male,24,Diabetes,"Fatigue, Frequent urination, Blurred vision",29,Insulin (10 units),Yes
+Other,10,Tuberculosis,"Chronic cough, Weight loss, Fever, Night sweats",24,Rifampicin (600mg),No
+Female,30,Tuberculosis,"Weight loss, Fever, Night sweats",16,Isoniazid (300mg),No
+Other,76,Migraine,"Throbbing pain, Nausea",67,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Other,23,Tuberculosis,"Night sweats, Chronic cough, Weight loss",47,Isoniazid (300mg),Yes
+Female,38,Diabetes,"Fatigue, Blurred vision, Frequent urination",50,"Insulin (10 units), Metformin (500mg)",No
+Other,62,Tuberculosis,"Fever, Weight loss, Night sweats",57,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Male,60,Tuberculosis,"Weight loss, Fever, Chronic cough",63,Isoniazid (300mg),No
+Male,87,Migraine,"Sensitivity to light, Nausea, Throbbing pain",17,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Female,39,Hypertension,"Shortness of breath, Dizziness, Headache, Nosebleeds",64,Lisinopril (10mg),No
+Male,61,Asthma,"Coughing, Wheezing, Chest tightness, Shortness of breath",75,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Female,21,Diabetes,"Fatigue, Frequent urination, Blurred vision",23,"Insulin (10 units), Metformin (500mg)",No
+Male,57,Migraine,"Nausea, Sensitivity to light, Throbbing pain, Aura",79,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Other,5,Tuberculosis,"Weight loss, Fever, Chronic cough",37,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Female,81,Covid-19,"Fatigue, Cough, Fever, Loss of smell",72,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Other,83,Hypertension,"Dizziness, Shortness of breath, Nosebleeds",63,Amlodipine (5mg),No
+Other,3,Diabetes,"Blurred vision, Increased thirst, Frequent urination, Fatigue",12,"Insulin (10 units), Metformin (500mg)",Yes
+Male,75,Migraine,"Aura, Sensitivity to light, Throbbing pain, Nausea",14,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,54,Covid-19,"Cough, Fever",32,Remdesivir (100mg),Yes
+Other,78,Migraine,"Sensitivity to light, Aura, Nausea, Throbbing pain",34,Sumatriptan (50mg),Yes
+Male,46,Migraine,"Aura, Sensitivity to light, Nausea",10,Ibuprofen (400mg),No
+Female,64,Migraine,"Nausea, Throbbing pain",54,Ibuprofen (400mg),Yes
+Male,76,Diabetes,"Blurred vision, Fatigue, Frequent urination, Increased thirst",50,"Insulin (10 units), Metformin (500mg)",No
+Female,50,Asthma,"Wheezing, Coughing, Shortness of breath, Chest tightness",49,Fluticasone (100mcg),No
+Male,11,Hypertension,"Dizziness, Shortness of breath",72,Amlodipine (5mg),No
+Male,57,Flu,"Sweating, Fever",46,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Female,70,Asthma,"Wheezing, Chest tightness, Shortness of breath, Coughing",45,Fluticasone (100mcg),No
+Male,47,Migraine,"Throbbing pain, Nausea",31,Sumatriptan (50mg),Yes
+Other,75,Diabetes,"Blurred vision, Frequent urination",51,"Metformin (500mg), Insulin (10 units)",Yes
+Male,89,Asthma,"Coughing, Wheezing",27,Fluticasone (100mcg),Yes
+Other,68,Migraine,"Aura, Nausea, Throbbing pain",39,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,47,Flu,"Cough, Sweating, Fever",80,Paracetamol (500mg),No
+Female,73,Covid-19,"Loss of smell, Fever, Cough",79,Remdesivir (100mg),Yes
+Female,14,Migraine,"Nausea, Sensitivity to light, Throbbing pain, Aura",53,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Male,64,Asthma,"Coughing, Shortness of breath",79,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Female,75,Diabetes,"Fatigue, Blurred vision, Frequent urination",45,Metformin (500mg),No
+Male,53,Tuberculosis,"Night sweats, Chronic cough, Weight loss, Fever",10,Rifampicin (600mg),Yes
+Male,33,Covid-19,"Cough, Fatigue",76,"Remdesivir (100mg), Paracetamol (500mg)",No
+Other,31,Asthma,"Shortness of breath, Chest tightness",36,Albuterol (90mcg),Yes
+Other,13,Asthma,"Wheezing, Coughing, Shortness of breath, Chest tightness",49,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Male,67,Tuberculosis,"Chronic cough, Weight loss",86,Rifampicin (600mg),No
+Other,10,Tuberculosis,"Fever, Chronic cough, Night sweats",9,"Isoniazid (300mg), Rifampicin (600mg)",No
+Female,1,Tuberculosis,"Night sweats, Chronic cough, Fever, Weight loss",44,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,61,Covid-19,"Fever, Cough, Loss of smell",10,Paracetamol (500mg),No
+Male,23,Tuberculosis,"Fever, Weight loss, Chronic cough",45,Isoniazid (300mg),Yes
+Other,52,Asthma,"Shortness of breath, Chest tightness, Wheezing",58,Albuterol (90mcg),Yes
+Female,67,Diabetes,"Fatigue, Blurred vision",77,"Metformin (500mg), Insulin (10 units)",Yes
+Other,66,Hypertension,"Dizziness, Nosebleeds, Shortness of breath",85,Amlodipine (5mg),No
+Male,87,Migraine,"Throbbing pain, Nausea, Sensitivity to light, Aura",64,Sumatriptan (50mg),Yes
+Other,27,Flu,"Fever, Sore throat, Sweating, Cough",38,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,81,Migraine,"Sensitivity to light, Throbbing pain",24,Sumatriptan (50mg),No
+Female,25,Hypertension,"Headache, Shortness of breath",33,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,86,Tuberculosis,"Weight loss, Night sweats, Fever",6,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Female,41,Flu,"Cough, Sore throat, Fever, Sweating",6,Paracetamol (500mg),Yes
+Female,16,Hypertension,"Headache, Shortness of breath, Dizziness",39,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Male,78,Covid-19,"Fever, Fatigue, Loss of smell",53,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,83,Hypertension,"Shortness of breath, Headache, Nosebleeds",20,Amlodipine (5mg),No
+Female,87,Diabetes,"Frequent urination, Fatigue, Blurred vision, Increased thirst",42,Insulin (10 units),Yes
+Other,22,Flu,"Sore throat, Cough, Sweating",80,"Paracetamol (500mg), Antihistamine (10mg)",No
+Male,31,Covid-19,"Cough, Fever, Fatigue, Loss of smell",12,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,80,Migraine,"Sensitivity to light, Aura, Nausea",50,Ibuprofen (400mg),Yes
+Other,14,Flu,"Cough, Sweating, Sore throat",49,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Female,73,Covid-19,"Fatigue, Fever, Loss of smell",62,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,80,Hypertension,"Nosebleeds, Shortness of breath, Headache, Dizziness",40,"Amlodipine (5mg), Lisinopril (10mg)",No
+Male,34,Flu,"Fever, Sore throat",45,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,73,Diabetes,"Blurred vision, Fatigue, Frequent urination, Increased thirst",75,"Insulin (10 units), Metformin (500mg)",Yes
+Male,49,Hypertension,"Nosebleeds, Headache",68,"Lisinopril (10mg), Amlodipine (5mg)",No
+Male,28,Flu,"Sweating, Fever, Cough, Sore throat",23,Antihistamine (10mg),Yes
+Male,22,Migraine,"Nausea, Sensitivity to light",43,Ibuprofen (400mg),Yes
+Other,12,Migraine,"Aura, Sensitivity to light",23,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Female,50,Migraine,"Aura, Sensitivity to light, Nausea, Throbbing pain",58,Sumatriptan (50mg),No
+Female,69,Covid-19,"Fever, Fatigue, Loss of smell, Cough",67,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,30,Asthma,"Wheezing, Coughing, Shortness of breath",30,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Female,36,Covid-19,"Fever, Cough, Loss of smell",60,Paracetamol (500mg),No
+Male,86,Diabetes,"Fatigue, Increased thirst",49,Insulin (10 units),No
+Female,3,Covid-19,"Fatigue, Fever, Cough, Loss of smell",89,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,10,Covid-19,"Loss of smell, Fever, Cough",49,Remdesivir (100mg),No
+Male,22,Migraine,"Aura, Sensitivity to light, Throbbing pain, Nausea",32,Ibuprofen (400mg),No
+Male,83,Diabetes,"Fatigue, Frequent urination, Increased thirst, Blurred vision",48,"Metformin (500mg), Insulin (10 units)",Yes
+Female,33,Tuberculosis,"Night sweats, Chronic cough",73,Rifampicin (600mg),No
+Male,60,Hypertension,"Nosebleeds, Dizziness",32,Amlodipine (5mg),Yes
+Other,1,Diabetes,"Increased thirst, Frequent urination",44,"Insulin (10 units), Metformin (500mg)",Yes
+Male,17,Flu,"Fever, Sore throat, Sweating, Cough",24,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Other,64,Migraine,"Nausea, Aura",7,Ibuprofen (400mg),Yes
+Male,69,Migraine,"Nausea, Throbbing pain",16,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Female,6,Asthma,"Chest tightness, Wheezing, Shortness of breath",13,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Female,49,Covid-19,"Cough, Fatigue",19,Remdesivir (100mg),Yes
+Other,48,Covid-19,"Fatigue, Fever, Cough, Loss of smell",24,"Remdesivir (100mg), Paracetamol (500mg)",No
+Male,90,Flu,"Fever, Sore throat",90,Paracetamol (500mg),No
+Male,30,Migraine,"Nausea, Sensitivity to light, Aura, Throbbing pain",32,Ibuprofen (400mg),Yes
+Other,38,Tuberculosis,"Weight loss, Chronic cough, Fever, Night sweats",31,Rifampicin (600mg),Yes
+Other,34,Hypertension,"Shortness of breath, Headache, Nosebleeds",53,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,38,Covid-19,"Fatigue, Cough, Loss of smell, Fever",33,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,68,Covid-19,"Loss of smell, Cough",84,Paracetamol (500mg),No
+Male,54,Hypertension,"Dizziness, Headache, Shortness of breath",89,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Male,45,Flu,"Fever, Sore throat, Sweating, Cough",71,Antihistamine (10mg),No
+Male,53,Covid-19,"Cough, Fatigue, Fever",7,Remdesivir (100mg),Yes
+Other,68,Asthma,"Coughing, Chest tightness",54,Fluticasone (100mcg),No
+Male,52,Hypertension,"Headache, Dizziness",40,"Amlodipine (5mg), Lisinopril (10mg)",No
+Male,53,Tuberculosis,"Weight loss, Night sweats, Chronic cough",12,Isoniazid (300mg),No
+Other,67,Tuberculosis,"Weight loss, Fever, Chronic cough, Night sweats",11,Rifampicin (600mg),No
+Male,74,Flu,"Sweating, Fever",13,"Paracetamol (500mg), Antihistamine (10mg)",No
+Other,68,Diabetes,"Frequent urination, Blurred vision, Fatigue, Increased thirst",10,"Metformin (500mg), Insulin (10 units)",Yes
+Other,29,Migraine,"Nausea, Aura, Sensitivity to light",29,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Female,17,Asthma,"Shortness of breath, Coughing, Chest tightness, Wheezing",23,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Male,6,Covid-19,"Loss of smell, Fever",84,Paracetamol (500mg),No
+Other,40,Tuberculosis,"Chronic cough, Night sweats",5,"Isoniazid (300mg), Rifampicin (600mg)",No
+Female,81,Covid-19,"Fatigue, Loss of smell, Fever, Cough",76,"Remdesivir (100mg), Paracetamol (500mg)",No
+Other,71,Asthma,"Coughing, Shortness of breath, Wheezing, Chest tightness",17,Albuterol (90mcg),Yes
+Female,42,Asthma,"Chest tightness, Shortness of breath, Wheezing",87,Fluticasone (100mcg),Yes
+Other,76,Diabetes,"Frequent urination, Blurred vision, Increased thirst",13,"Insulin (10 units), Metformin (500mg)",No
+Female,2,Hypertension,"Dizziness, Nosebleeds, Headache",89,Amlodipine (5mg),No
+Male,4,Diabetes,"Frequent urination, Fatigue, Blurred vision, Increased thirst",87,"Insulin (10 units), Metformin (500mg)",No
+Male,71,Tuberculosis,"Fever, Chronic cough, Weight loss",52,Rifampicin (600mg),Yes
+Male,4,Tuberculosis,"Fever, Chronic cough, Night sweats",65,Rifampicin (600mg),Yes
+Male,22,Hypertension,"Dizziness, Nosebleeds",22,"Amlodipine (5mg), Lisinopril (10mg)",No
+Male,51,Flu,"Cough, Fever, Sweating, Sore throat",16,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,17,Diabetes,"Fatigue, Increased thirst",57,Insulin (10 units),Yes
+Other,52,Asthma,"Chest tightness, Coughing",24,Albuterol (90mcg),No
+Other,33,Hypertension,"Nosebleeds, Shortness of breath, Dizziness",71,"Amlodipine (5mg), Lisinopril (10mg)",No
+Male,17,Migraine,"Aura, Throbbing pain, Nausea, Sensitivity to light",28,Sumatriptan (50mg),Yes
+Other,52,Covid-19,"Fatigue, Fever, Loss of smell, Cough",73,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,48,Flu,"Cough, Sore throat",47,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Female,53,Migraine,"Throbbing pain, Sensitivity to light, Nausea, Aura",14,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Other,52,Tuberculosis,"Fever, Night sweats, Chronic cough",54,Isoniazid (300mg),No
+Other,56,Covid-19,"Fatigue, Loss of smell, Fever, Cough",88,"Remdesivir (100mg), Paracetamol (500mg)",No
+Male,54,Migraine,"Throbbing pain, Aura, Sensitivity to light, Nausea",88,Ibuprofen (400mg),Yes
+Other,19,Hypertension,"Dizziness, Nosebleeds",79,Amlodipine (5mg),No
+Female,26,Diabetes,"Increased thirst, Fatigue",27,Insulin (10 units),No
+Other,45,Flu,"Fever, Cough, Sweating, Sore throat",18,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Other,31,Flu,"Cough, Sweating",9,Antihistamine (10mg),No
+Other,45,Tuberculosis,"Weight loss, Chronic cough",55,"Isoniazid (300mg), Rifampicin (600mg)",No
+Male,26,Diabetes,"Increased thirst, Blurred vision",66,"Metformin (500mg), Insulin (10 units)",No
+Other,25,Hypertension,"Dizziness, Headache, Nosebleeds, Shortness of breath",67,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,72,Covid-19,"Loss of smell, Cough, Fatigue",7,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Other,61,Covid-19,"Cough, Fever, Fatigue, Loss of smell",64,Paracetamol (500mg),No
+Other,82,Migraine,"Nausea, Throbbing pain",88,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Female,70,Flu,"Sweating, Sore throat, Fever, Cough",26,Antihistamine (10mg),No
+Male,37,Diabetes,"Increased thirst, Blurred vision",15,Metformin (500mg),No
+Other,29,Diabetes,"Blurred vision, Increased thirst, Fatigue",75,"Metformin (500mg), Insulin (10 units)",No
+Female,62,Diabetes,"Blurred vision, Fatigue, Frequent urination",69,Metformin (500mg),Yes
+Male,67,Flu,"Sore throat, Cough",42,Paracetamol (500mg),No
+Female,46,Covid-19,"Loss of smell, Cough, Fever",50,Paracetamol (500mg),No
+Other,11,Tuberculosis,"Fever, Weight loss",35,Rifampicin (600mg),No
+Other,46,Migraine,"Sensitivity to light, Nausea",73,Sumatriptan (50mg),Yes
+Male,68,Flu,"Sore throat, Fever, Cough, Sweating",83,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,45,Diabetes,"Increased thirst, Frequent urination, Blurred vision, Fatigue",76,Insulin (10 units),Yes
+Female,21,Asthma,"Shortness of breath, Wheezing",87,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,29,Hypertension,"Shortness of breath, Nosebleeds",80,Lisinopril (10mg),No
+Male,2,Asthma,"Coughing, Shortness of breath",72,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Male,81,Tuberculosis,"Fever, Night sweats, Weight loss",79,Rifampicin (600mg),No
+Female,82,Migraine,"Nausea, Sensitivity to light, Aura",84,Sumatriptan (50mg),Yes
+Female,1,Diabetes,"Blurred vision, Frequent urination, Increased thirst",79,Insulin (10 units),No
+Other,1,Asthma,"Chest tightness, Coughing",18,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,77,Asthma,"Wheezing, Coughing, Shortness of breath",59,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Male,79,Hypertension,"Nosebleeds, Shortness of breath, Dizziness",19,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,1,Hypertension,"Headache, Dizziness, Nosebleeds, Shortness of breath",28,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,29,Asthma,"Chest tightness, Coughing, Shortness of breath",30,Albuterol (90mcg),Yes
+Female,45,Asthma,"Wheezing, Chest tightness",89,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Male,15,Hypertension,"Dizziness, Headache, Shortness of breath",17,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,72,Hypertension,"Shortness of breath, Nosebleeds, Headache, Dizziness",24,Amlodipine (5mg),No
+Male,9,Migraine,"Throbbing pain, Nausea",78,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Other,57,Covid-19,"Loss of smell, Cough",12,Remdesivir (100mg),Yes
+Other,29,Asthma,"Chest tightness, Wheezing, Shortness of breath",31,Fluticasone (100mcg),Yes
+Male,64,Migraine,"Nausea, Throbbing pain, Aura, Sensitivity to light",65,Sumatriptan (50mg),Yes
+Female,60,Flu,"Cough, Sore throat, Fever, Sweating",70,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,67,Migraine,"Nausea, Throbbing pain, Aura",14,Ibuprofen (400mg),Yes
+Female,53,Asthma,"Shortness of breath, Chest tightness, Wheezing, Coughing",47,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,69,Migraine,"Aura, Nausea",6,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Other,47,Tuberculosis,"Night sweats, Chronic cough",62,Rifampicin (600mg),Yes
+Other,20,Hypertension,"Dizziness, Nosebleeds, Shortness of breath, Headache",22,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,52,Covid-19,"Loss of smell, Cough, Fatigue",49,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,88,Asthma,"Coughing, Wheezing, Chest tightness",7,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Male,62,Diabetes,"Increased thirst, Blurred vision, Fatigue",77,Metformin (500mg),No
+Female,73,Covid-19,"Fever, Fatigue, Loss of smell",53,"Paracetamol (500mg), Remdesivir (100mg)",No
+Female,62,Migraine,"Throbbing pain, Nausea",9,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Male,82,Asthma,"Shortness of breath, Chest tightness, Coughing",30,Fluticasone (100mcg),No
+Other,14,Diabetes,"Frequent urination, Fatigue, Blurred vision, Increased thirst",73,Insulin (10 units),No
+Female,75,Asthma,"Shortness of breath, Coughing, Wheezing, Chest tightness",61,Albuterol (90mcg),Yes
+Female,84,Asthma,"Wheezing, Chest tightness, Shortness of breath, Coughing",50,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,2,Covid-19,"Loss of smell, Fever, Fatigue, Cough",21,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,89,Hypertension,"Dizziness, Shortness of breath",73,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,18,Diabetes,"Blurred vision, Fatigue, Increased thirst",16,Metformin (500mg),No
+Male,79,Migraine,"Nausea, Aura",85,Sumatriptan (50mg),Yes
+Female,37,Hypertension,"Nosebleeds, Dizziness",5,Lisinopril (10mg),No
+Other,16,Diabetes,"Frequent urination, Increased thirst",74,"Metformin (500mg), Insulin (10 units)",No
+Male,58,Asthma,"Coughing, Shortness of breath",30,Fluticasone (100mcg),No
+Other,67,Asthma,"Chest tightness, Shortness of breath",16,Fluticasone (100mcg),No
+Male,83,Diabetes,"Frequent urination, Fatigue, Increased thirst, Blurred vision",17,"Insulin (10 units), Metformin (500mg)",No
+Other,33,Hypertension,"Dizziness, Nosebleeds, Headache",43,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,45,Tuberculosis,"Night sweats, Weight loss, Chronic cough",7,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Male,53,Asthma,"Coughing, Shortness of breath",87,Albuterol (90mcg),Yes
+Other,44,Hypertension,"Headache, Nosebleeds",37,Lisinopril (10mg),No
+Other,78,Covid-19,"Fatigue, Loss of smell, Cough",25,Remdesivir (100mg),No
+Other,48,Migraine,"Aura, Nausea, Sensitivity to light",29,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Other,61,Flu,"Fever, Sore throat",86,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Female,49,Diabetes,"Increased thirst, Blurred vision, Frequent urination",26,Metformin (500mg),No
+Male,81,Hypertension,"Dizziness, Shortness of breath, Nosebleeds, Headache",11,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,56,Asthma,"Wheezing, Coughing, Shortness of breath",72,Fluticasone (100mcg),No
+Male,33,Diabetes,"Fatigue, Frequent urination, Increased thirst",82,Metformin (500mg),Yes
+Female,42,Covid-19,"Cough, Loss of smell, Fever, Fatigue",80,Paracetamol (500mg),No
+Male,35,Hypertension,"Dizziness, Nosebleeds, Shortness of breath, Headache",49,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,48,Tuberculosis,"Chronic cough, Weight loss, Fever",6,Rifampicin (600mg),Yes
+Male,40,Covid-19,"Fever, Fatigue, Loss of smell, Cough",21,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,77,Covid-19,"Cough, Fever",38,Paracetamol (500mg),Yes
+Female,72,Flu,"Sore throat, Sweating",47,"Paracetamol (500mg), Antihistamine (10mg)",No
+Male,1,Hypertension,"Nosebleeds, Dizziness, Shortness of breath",21,"Amlodipine (5mg), Lisinopril (10mg)",No
+Male,39,Tuberculosis,"Fever, Night sweats",39,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,17,Asthma,"Chest tightness, Shortness of breath, Coughing",32,Fluticasone (100mcg),No
+Female,29,Migraine,"Nausea, Throbbing pain",83,Sumatriptan (50mg),No
+Male,29,Asthma,"Shortness of breath, Chest tightness, Coughing, Wheezing",82,Albuterol (90mcg),No
+Male,39,Asthma,"Coughing, Chest tightness, Wheezing, Shortness of breath",25,Fluticasone (100mcg),No
+Female,36,Covid-19,"Cough, Fever, Fatigue, Loss of smell",89,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,6,Diabetes,"Blurred vision, Frequent urination, Increased thirst",16,Insulin (10 units),No
+Female,9,Hypertension,"Headache, Nosebleeds, Dizziness",42,Amlodipine (5mg),Yes
+Female,27,Asthma,"Wheezing, Shortness of breath, Chest tightness",35,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,57,Diabetes,"Fatigue, Increased thirst, Blurred vision",90,"Metformin (500mg), Insulin (10 units)",Yes
+Male,83,Tuberculosis,"Fever, Chronic cough, Weight loss, Night sweats",45,Rifampicin (600mg),Yes
+Other,41,Diabetes,"Frequent urination, Increased thirst, Fatigue",43,Insulin (10 units),No
+Female,8,Covid-19,"Loss of smell, Fatigue, Cough",50,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,82,Tuberculosis,"Night sweats, Fever",14,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Other,59,Asthma,"Wheezing, Chest tightness, Coughing, Shortness of breath",15,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Female,23,Covid-19,"Loss of smell, Fever, Cough, Fatigue",68,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,35,Hypertension,"Nosebleeds, Headache, Shortness of breath",88,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,76,Flu,"Sweating, Cough, Fever, Sore throat",17,"Paracetamol (500mg), Antihistamine (10mg)",No
+Male,21,Tuberculosis,"Night sweats, Chronic cough, Fever, Weight loss",68,Isoniazid (300mg),No
+Female,78,Migraine,"Nausea, Sensitivity to light, Aura, Throbbing pain",7,Sumatriptan (50mg),No
+Other,83,Flu,"Fever, Cough",79,"Antihistamine (10mg), Paracetamol (500mg)",No
+Female,57,Tuberculosis,"Night sweats, Chronic cough, Fever, Weight loss",47,Isoniazid (300mg),Yes
+Female,30,Migraine,"Sensitivity to light, Aura, Throbbing pain, Nausea",5,Ibuprofen (400mg),No
+Male,58,Diabetes,"Fatigue, Frequent urination, Blurred vision",18,"Metformin (500mg), Insulin (10 units)",Yes
+Female,14,Tuberculosis,"Night sweats, Chronic cough, Fever",36,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,15,Flu,"Sweating, Fever, Sore throat",16,Antihistamine (10mg),Yes
+Female,17,Flu,"Sore throat, Cough, Sweating, Fever",44,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Male,10,Asthma,"Coughing, Wheezing, Shortness of breath",71,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,10,Tuberculosis,"Fever, Weight loss",36,"Isoniazid (300mg), Rifampicin (600mg)",No
+Male,41,Tuberculosis,"Chronic cough, Night sweats, Weight loss, Fever",84,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Male,34,Flu,"Fever, Cough, Sweating",73,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Male,32,Asthma,"Chest tightness, Shortness of breath, Coughing",89,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,10,Covid-19,"Cough, Fever",40,Remdesivir (100mg),Yes
+Other,46,Asthma,"Wheezing, Shortness of breath",7,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Male,30,Covid-19,"Fever, Fatigue, Cough",53,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Other,48,Migraine,"Aura, Throbbing pain, Sensitivity to light",20,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Other,37,Asthma,"Coughing, Shortness of breath, Wheezing",55,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Other,78,Tuberculosis,"Night sweats, Chronic cough",87,Isoniazid (300mg),Yes
+Male,17,Hypertension,"Nosebleeds, Dizziness, Headache, Shortness of breath",7,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,26,Hypertension,"Nosebleeds, Headache, Shortness of breath, Dizziness",38,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,33,Migraine,"Nausea, Aura, Sensitivity to light",57,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Female,1,Flu,"Sore throat, Fever, Sweating, Cough",49,Antihistamine (10mg),No
+Male,37,Diabetes,"Blurred vision, Increased thirst, Fatigue, Frequent urination",77,"Insulin (10 units), Metformin (500mg)",No
+Female,65,Flu,"Sore throat, Sweating, Cough, Fever",56,Paracetamol (500mg),Yes
+Other,52,Asthma,"Chest tightness, Shortness of breath",33,Fluticasone (100mcg),No
+Other,35,Flu,"Cough, Fever, Sore throat, Sweating",6,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Female,22,Asthma,"Wheezing, Chest tightness, Shortness of breath, Coughing",21,Fluticasone (100mcg),No
+Other,47,Hypertension,"Dizziness, Nosebleeds, Headache",12,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,13,Asthma,"Chest tightness, Wheezing, Shortness of breath, Coughing",8,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Other,37,Asthma,"Chest tightness, Shortness of breath, Coughing, Wheezing",36,Albuterol (90mcg),No
+Female,81,Tuberculosis,"Chronic cough, Night sweats",32,Isoniazid (300mg),No
+Male,19,Migraine,"Sensitivity to light, Nausea, Throbbing pain",63,Sumatriptan (50mg),Yes
+Other,80,Flu,"Fever, Sweating, Cough",83,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Female,35,Covid-19,"Fatigue, Fever",55,Paracetamol (500mg),No
+Female,81,Hypertension,"Headache, Dizziness, Shortness of breath",20,Amlodipine (5mg),Yes
+Female,37,Covid-19,"Fever, Cough, Fatigue, Loss of smell",64,Paracetamol (500mg),Yes
+Male,57,Hypertension,"Headache, Nosebleeds",16,Amlodipine (5mg),Yes
+Female,44,Tuberculosis,"Night sweats, Fever, Weight loss, Chronic cough",32,Isoniazid (300mg),No
+Other,88,Tuberculosis,"Chronic cough, Night sweats, Fever",60,Rifampicin (600mg),Yes
+Other,64,Tuberculosis,"Fever, Weight loss, Chronic cough, Night sweats",20,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,41,Asthma,"Chest tightness, Shortness of breath, Wheezing, Coughing",64,Fluticasone (100mcg),Yes
+Other,17,Flu,"Cough, Sore throat, Fever",65,Antihistamine (10mg),No
+Male,58,Flu,"Cough, Sweating, Fever, Sore throat",65,"Antihistamine (10mg), Paracetamol (500mg)",No
+Female,17,Flu,"Fever, Cough",75,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Other,49,Covid-19,"Cough, Fever",60,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,86,Flu,"Sore throat, Fever, Sweating",88,Paracetamol (500mg),No
+Female,33,Flu,"Cough, Fever",43,"Paracetamol (500mg), Antihistamine (10mg)",No
+Other,33,Flu,"Cough, Sweating, Fever",18,Paracetamol (500mg),No
+Other,36,Hypertension,"Shortness of breath, Dizziness",24,Amlodipine (5mg),Yes
+Male,80,Hypertension,"Nosebleeds, Shortness of breath, Headache",85,Amlodipine (5mg),No
+Female,86,Tuberculosis,"Weight loss, Night sweats, Fever",65,Rifampicin (600mg),Yes
+Other,35,Hypertension,"Shortness of breath, Headache",28,"Amlodipine (5mg), Lisinopril (10mg)",No
+Male,78,Covid-19,"Fever, Cough",18,Remdesivir (100mg),No
+Male,27,Migraine,"Aura, Nausea, Throbbing pain",22,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Other,78,Migraine,"Sensitivity to light, Aura, Nausea, Throbbing pain",64,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,70,Tuberculosis,"Weight loss, Chronic cough, Fever",77,Rifampicin (600mg),No
+Male,63,Covid-19,"Fever, Fatigue, Cough, Loss of smell",76,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,60,Tuberculosis,"Chronic cough, Night sweats, Weight loss, Fever",61,Isoniazid (300mg),Yes
+Other,80,Hypertension,"Dizziness, Shortness of breath, Nosebleeds, Headache",82,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,56,Asthma,"Shortness of breath, Coughing, Chest tightness",72,Fluticasone (100mcg),No
+Female,12,Asthma,"Coughing, Wheezing, Shortness of breath, Chest tightness",58,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Male,15,Asthma,"Chest tightness, Wheezing, Coughing, Shortness of breath",30,Albuterol (90mcg),Yes
+Other,44,Asthma,"Wheezing, Shortness of breath",67,Fluticasone (100mcg),No
+Female,67,Flu,"Sore throat, Cough, Fever, Sweating",53,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,71,Tuberculosis,"Fever, Weight loss, Night sweats",55,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,85,Tuberculosis,"Fever, Weight loss, Night sweats, Chronic cough",62,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Female,87,Migraine,"Sensitivity to light, Throbbing pain, Aura",84,Sumatriptan (50mg),Yes
+Male,69,Covid-19,"Loss of smell, Fever",35,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Female,59,Hypertension,"Dizziness, Shortness of breath, Nosebleeds",27,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,77,Tuberculosis,"Weight loss, Chronic cough",26,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Male,43,Hypertension,"Headache, Dizziness",35,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Male,59,Covid-19,"Loss of smell, Fatigue, Fever, Cough",72,Paracetamol (500mg),No
+Other,44,Tuberculosis,"Fever, Night sweats, Chronic cough, Weight loss",9,"Rifampicin (600mg), Isoniazid (300mg)",No
+Female,49,Migraine,"Throbbing pain, Aura, Nausea, Sensitivity to light",13,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,72,Asthma,"Shortness of breath, Wheezing, Coughing",36,Fluticasone (100mcg),No
+Other,80,Flu,"Cough, Fever",45,Paracetamol (500mg),No
+Female,62,Covid-19,"Loss of smell, Cough, Fatigue",25,"Paracetamol (500mg), Remdesivir (100mg)",No
+Male,57,Migraine,"Aura, Sensitivity to light, Throbbing pain",25,Sumatriptan (50mg),No
+Other,87,Migraine,"Nausea, Aura",85,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Other,55,Migraine,"Nausea, Throbbing pain, Aura, Sensitivity to light",74,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,47,Covid-19,"Cough, Fever",22,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Female,80,Diabetes,"Fatigue, Increased thirst, Frequent urination",89,"Metformin (500mg), Insulin (10 units)",Yes
+Male,20,Tuberculosis,"Fever, Night sweats",80,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Other,8,Tuberculosis,"Night sweats, Chronic cough, Weight loss",11,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Female,61,Hypertension,"Headache, Shortness of breath",7,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Female,57,Flu,"Sore throat, Fever, Sweating, Cough",31,Paracetamol (500mg),No
+Other,36,Asthma,"Wheezing, Coughing, Shortness of breath",59,Fluticasone (100mcg),No
+Female,55,Diabetes,"Increased thirst, Fatigue, Blurred vision, Frequent urination",64,"Insulin (10 units), Metformin (500mg)",No
+Other,55,Asthma,"Chest tightness, Shortness of breath, Wheezing",34,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Female,38,Diabetes,"Fatigue, Blurred vision",17,"Metformin (500mg), Insulin (10 units)",No
+Male,9,Hypertension,"Nosebleeds, Dizziness, Headache, Shortness of breath",56,"Lisinopril (10mg), Amlodipine (5mg)",No
+Male,74,Migraine,"Nausea, Sensitivity to light, Throbbing pain",26,Sumatriptan (50mg),Yes
+Female,61,Diabetes,"Blurred vision, Frequent urination, Increased thirst, Fatigue",16,"Metformin (500mg), Insulin (10 units)",Yes
+Female,53,Flu,"Fever, Sweating",9,Paracetamol (500mg),Yes
+Male,29,Tuberculosis,"Fever, Night sweats",57,"Isoniazid (300mg), Rifampicin (600mg)",No
+Female,14,Asthma,"Coughing, Shortness of breath, Chest tightness, Wheezing",76,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Female,14,Hypertension,"Dizziness, Nosebleeds, Headache",32,Lisinopril (10mg),Yes
+Other,22,Migraine,"Nausea, Aura, Sensitivity to light, Throbbing pain",35,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Other,68,Hypertension,"Nosebleeds, Headache, Shortness of breath",15,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Male,45,Flu,"Cough, Fever",9,"Paracetamol (500mg), Antihistamine (10mg)",No
+Male,68,Tuberculosis,"Fever, Chronic cough, Night sweats, Weight loss",17,Isoniazid (300mg),Yes
+Female,78,Flu,"Cough, Sweating",61,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Male,9,Tuberculosis,"Fever, Night sweats, Chronic cough",41,Rifampicin (600mg),Yes
+Other,40,Covid-19,"Fever, Cough, Loss of smell",70,Remdesivir (100mg),Yes
+Male,19,Asthma,"Coughing, Wheezing, Chest tightness",76,Fluticasone (100mcg),Yes
+Male,18,Flu,"Sweating, Sore throat, Cough, Fever",25,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Other,65,Diabetes,"Fatigue, Frequent urination",62,"Insulin (10 units), Metformin (500mg)",No
+Male,51,Diabetes,"Increased thirst, Frequent urination",82,"Insulin (10 units), Metformin (500mg)",Yes
+Female,70,Asthma,"Wheezing, Shortness of breath, Chest tightness, Coughing",65,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Male,28,Migraine,"Sensitivity to light, Aura",44,Ibuprofen (400mg),Yes
+Female,21,Tuberculosis,"Chronic cough, Fever, Weight loss, Night sweats",52,"Rifampicin (600mg), Isoniazid (300mg)",No
+Other,5,Hypertension,"Nosebleeds, Shortness of breath",76,Amlodipine (5mg),Yes
+Other,8,Migraine,"Aura, Sensitivity to light, Throbbing pain",86,Sumatriptan (50mg),No
+Male,30,Migraine,"Nausea, Aura, Sensitivity to light, Throbbing pain",76,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Female,38,Covid-19,"Fatigue, Cough",47,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Other,41,Hypertension,"Shortness of breath, Headache",51,"Amlodipine (5mg), Lisinopril (10mg)",No
+Other,43,Diabetes,"Fatigue, Increased thirst",87,"Insulin (10 units), Metformin (500mg)",Yes
+Female,62,Hypertension,"Dizziness, Shortness of breath, Headache, Nosebleeds",44,Amlodipine (5mg),Yes
+Other,4,Covid-19,"Cough, Fever",73,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,65,Hypertension,"Dizziness, Nosebleeds",18,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,73,Covid-19,"Cough, Loss of smell, Fatigue",18,Remdesivir (100mg),Yes
+Other,82,Flu,"Fever, Sweating, Cough, Sore throat",54,Paracetamol (500mg),Yes
+Male,70,Asthma,"Coughing, Wheezing, Chest tightness, Shortness of breath",6,Albuterol (90mcg),Yes
+Other,1,Covid-19,"Fever, Cough, Loss of smell",11,"Remdesivir (100mg), Paracetamol (500mg)",No
+Other,34,Hypertension,"Shortness of breath, Dizziness, Headache",24,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,33,Diabetes,"Fatigue, Blurred vision, Frequent urination, Increased thirst",28,Metformin (500mg),No
+Male,24,Diabetes,"Fatigue, Blurred vision, Increased thirst, Frequent urination",12,"Metformin (500mg), Insulin (10 units)",Yes
+Other,86,Tuberculosis,"Fever, Night sweats, Weight loss, Chronic cough",26,Isoniazid (300mg),Yes
+Female,78,Diabetes,"Frequent urination, Increased thirst, Fatigue",29,Metformin (500mg),Yes
+Male,69,Tuberculosis,"Weight loss, Fever",72,Rifampicin (600mg),No
+Other,64,Tuberculosis,"Weight loss, Chronic cough",53,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Other,46,Flu,"Sore throat, Cough, Sweating",43,"Antihistamine (10mg), Paracetamol (500mg)",No
+Female,17,Migraine,"Throbbing pain, Nausea, Sensitivity to light",16,Sumatriptan (50mg),No
+Other,10,Tuberculosis,"Fever, Weight loss",18,Isoniazid (300mg),No
+Male,85,Tuberculosis,"Weight loss, Night sweats, Chronic cough",57,Isoniazid (300mg),Yes
+Female,51,Diabetes,"Blurred vision, Increased thirst, Fatigue, Frequent urination",73,Insulin (10 units),No
+Male,80,Diabetes,"Increased thirst, Frequent urination, Fatigue",86,"Insulin (10 units), Metformin (500mg)",No
+Female,13,Diabetes,"Increased thirst, Fatigue, Frequent urination",6,Metformin (500mg),No
+Other,37,Hypertension,"Nosebleeds, Headache, Dizziness, Shortness of breath",6,"Amlodipine (5mg), Lisinopril (10mg)",No
+Male,60,Asthma,"Wheezing, Chest tightness, Shortness of breath",36,Fluticasone (100mcg),Yes
+Female,17,Hypertension,"Shortness of breath, Dizziness, Nosebleeds",22,Lisinopril (10mg),Yes
+Male,37,Covid-19,"Cough, Loss of smell",48,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,87,Asthma,"Wheezing, Chest tightness, Coughing, Shortness of breath",76,Albuterol (90mcg),Yes
+Male,10,Migraine,"Aura, Nausea, Sensitivity to light",31,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,46,Flu,"Fever, Cough, Sweating",31,Paracetamol (500mg),Yes
+Female,50,Migraine,"Sensitivity to light, Aura, Throbbing pain, Nausea",26,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,36,Diabetes,"Fatigue, Frequent urination, Increased thirst",20,Insulin (10 units),No
+Female,18,Asthma,"Chest tightness, Coughing",38,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Other,72,Asthma,"Shortness of breath, Coughing, Chest tightness, Wheezing",74,"Albuterol (90mcg), Fluticasone (100mcg)",Yes
+Other,90,Hypertension,"Shortness of breath, Nosebleeds",14,Amlodipine (5mg),Yes
+Female,37,Flu,"Sore throat, Fever",40,"Antihistamine (10mg), Paracetamol (500mg)",No
+Male,18,Migraine,"Sensitivity to light, Aura, Throbbing pain, Nausea",15,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Other,49,Flu,"Sweating, Cough",24,Antihistamine (10mg),Yes
+Female,37,Diabetes,"Increased thirst, Frequent urination, Blurred vision, Fatigue",25,"Metformin (500mg), Insulin (10 units)",No
+Other,72,Diabetes,"Fatigue, Frequent urination",27,"Insulin (10 units), Metformin (500mg)",Yes
+Male,43,Flu,"Sore throat, Fever",33,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Other,59,Asthma,"Shortness of breath, Wheezing, Chest tightness, Coughing",76,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Female,88,Diabetes,"Increased thirst, Frequent urination, Blurred vision",48,Insulin (10 units),Yes
+Female,48,Hypertension,"Headache, Shortness of breath, Nosebleeds, Dizziness",35,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,72,Tuberculosis,"Chronic cough, Night sweats, Weight loss",62,Isoniazid (300mg),Yes
+Other,71,Covid-19,"Fatigue, Loss of smell",67,Remdesivir (100mg),No
+Other,54,Migraine,"Nausea, Sensitivity to light",15,Sumatriptan (50mg),No
+Other,61,Diabetes,"Fatigue, Blurred vision",86,"Metformin (500mg), Insulin (10 units)",No
+Female,88,Tuberculosis,"Night sweats, Fever, Weight loss, Chronic cough",66,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Other,9,Hypertension,"Headache, Dizziness, Nosebleeds, Shortness of breath",54,Amlodipine (5mg),Yes
+Female,34,Diabetes,"Increased thirst, Blurred vision, Frequent urination",57,"Metformin (500mg), Insulin (10 units)",No
+Female,47,Flu,"Sore throat, Fever",25,Antihistamine (10mg),Yes
+Female,39,Asthma,"Wheezing, Chest tightness",32,Fluticasone (100mcg),Yes
+Other,79,Diabetes,"Fatigue, Increased thirst",72,"Metformin (500mg), Insulin (10 units)",No
+Male,12,Hypertension,"Shortness of breath, Nosebleeds",46,Amlodipine (5mg),Yes
+Other,73,Tuberculosis,"Fever, Chronic cough",87,"Rifampicin (600mg), Isoniazid (300mg)",No
+Male,58,Flu,"Sweating, Cough, Sore throat, Fever",43,"Antihistamine (10mg), Paracetamol (500mg)",No
+Other,77,Hypertension,"Nosebleeds, Headache",53,Lisinopril (10mg),Yes
+Other,38,Covid-19,"Loss of smell, Fatigue, Fever, Cough",32,Paracetamol (500mg),No
+Other,63,Flu,"Fever, Cough, Sore throat",8,Antihistamine (10mg),Yes
+Male,32,Diabetes,"Increased thirst, Frequent urination",25,"Insulin (10 units), Metformin (500mg)",Yes
+Other,73,Tuberculosis,"Weight loss, Night sweats",8,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,52,Covid-19,"Loss of smell, Fever, Cough",84,Remdesivir (100mg),Yes
+Female,64,Covid-19,"Loss of smell, Fatigue, Fever, Cough",58,Remdesivir (100mg),No
+Male,3,Diabetes,"Blurred vision, Fatigue",25,"Metformin (500mg), Insulin (10 units)",Yes
+Male,5,Flu,"Sweating, Sore throat",83,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Female,21,Diabetes,"Frequent urination, Increased thirst",82,Insulin (10 units),Yes
+Female,63,Tuberculosis,"Weight loss, Chronic cough, Fever",89,"Rifampicin (600mg), Isoniazid (300mg)",No
+Other,19,Tuberculosis,"Weight loss, Night sweats, Chronic cough",56,"Rifampicin (600mg), Isoniazid (300mg)",No
+Female,73,Hypertension,"Headache, Dizziness, Nosebleeds",30,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,89,Flu,"Cough, Sweating, Fever, Sore throat",43,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Other,42,Flu,"Sore throat, Cough, Sweating",45,Antihistamine (10mg),Yes
+Male,12,Diabetes,"Fatigue, Increased thirst, Blurred vision",35,Insulin (10 units),Yes
+Other,86,Covid-19,"Cough, Fever",84,"Remdesivir (100mg), Paracetamol (500mg)",No
+Other,53,Covid-19,"Fatigue, Cough",82,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,23,Diabetes,"Increased thirst, Fatigue, Blurred vision",10,"Metformin (500mg), Insulin (10 units)",No
+Other,52,Asthma,"Coughing, Shortness of breath, Chest tightness, Wheezing",88,Fluticasone (100mcg),No
+Female,58,Tuberculosis,"Chronic cough, Night sweats, Weight loss, Fever",20,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Male,86,Migraine,"Throbbing pain, Aura, Nausea, Sensitivity to light",36,Sumatriptan (50mg),No
+Other,64,Diabetes,"Blurred vision, Frequent urination, Fatigue",26,"Metformin (500mg), Insulin (10 units)",No
+Female,33,Flu,"Sore throat, Fever, Cough",79,"Antihistamine (10mg), Paracetamol (500mg)",No
+Female,83,Migraine,"Throbbing pain, Aura, Sensitivity to light",43,Ibuprofen (400mg),No
+Female,5,Flu,"Fever, Sweating, Sore throat, Cough",67,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Other,46,Tuberculosis,"Chronic cough, Weight loss",14,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Male,11,Asthma,"Chest tightness, Wheezing, Coughing, Shortness of breath",68,Fluticasone (100mcg),Yes
+Other,63,Diabetes,"Blurred vision, Increased thirst",83,Insulin (10 units),Yes
+Female,81,Diabetes,"Blurred vision, Frequent urination",38,"Insulin (10 units), Metformin (500mg)",No
+Female,81,Covid-19,"Fever, Loss of smell, Cough, Fatigue",71,Remdesivir (100mg),Yes
+Female,87,Covid-19,"Cough, Fatigue, Loss of smell",12,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,70,Asthma,"Chest tightness, Coughing",72,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Other,85,Diabetes,"Increased thirst, Frequent urination, Blurred vision",57,Insulin (10 units),No
+Other,63,Migraine,"Sensitivity to light, Nausea, Aura",72,Sumatriptan (50mg),No
+Male,11,Flu,"Cough, Sore throat",67,"Paracetamol (500mg), Antihistamine (10mg)",Yes
+Other,10,Diabetes,"Increased thirst, Blurred vision, Fatigue, Frequent urination",40,"Metformin (500mg), Insulin (10 units)",No
+Male,36,Hypertension,"Dizziness, Headache",25,"Lisinopril (10mg), Amlodipine (5mg)",No
+Male,17,Flu,"Sweating, Fever, Sore throat, Cough",6,Paracetamol (500mg),Yes
+Male,80,Covid-19,"Cough, Fatigue, Fever, Loss of smell",48,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,15,Migraine,"Nausea, Sensitivity to light, Throbbing pain",77,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Other,3,Flu,"Fever, Sweating, Sore throat",85,Antihistamine (10mg),No
+Male,10,Hypertension,"Shortness of breath, Dizziness, Headache, Nosebleeds",25,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,47,Migraine,"Sensitivity to light, Nausea, Throbbing pain, Aura",43,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Female,44,Migraine,"Aura, Throbbing pain, Nausea, Sensitivity to light",9,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Male,44,Asthma,"Shortness of breath, Chest tightness, Wheezing, Coughing",19,"Albuterol (90mcg), Fluticasone (100mcg)",No
+Other,9,Diabetes,"Increased thirst, Frequent urination",56,"Insulin (10 units), Metformin (500mg)",Yes
+Female,12,Flu,"Fever, Sweating, Sore throat, Cough",51,Paracetamol (500mg),Yes
+Female,62,Asthma,"Wheezing, Coughing, Chest tightness",62,Fluticasone (100mcg),Yes
+Other,16,Migraine,"Aura, Throbbing pain, Nausea",15,Ibuprofen (400mg),Yes
+Other,44,Hypertension,"Headache, Nosebleeds, Dizziness",23,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Male,70,Diabetes,"Blurred vision, Fatigue",82,Insulin (10 units),No
+Other,44,Asthma,"Wheezing, Coughing, Chest tightness",32,Fluticasone (100mcg),Yes
+Female,49,Hypertension,"Headache, Dizziness, Nosebleeds, Shortness of breath",58,Amlodipine (5mg),No
+Male,4,Diabetes,"Frequent urination, Increased thirst",40,Insulin (10 units),Yes
+Female,29,Migraine,"Aura, Sensitivity to light",46,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Female,21,Asthma,"Coughing, Shortness of breath",21,Fluticasone (100mcg),No
+Female,66,Tuberculosis,"Weight loss, Fever, Chronic cough, Night sweats",9,"Rifampicin (600mg), Isoniazid (300mg)",No
+Female,48,Diabetes,"Blurred vision, Frequent urination, Fatigue, Increased thirst",52,Metformin (500mg),Yes
+Male,72,Hypertension,"Headache, Dizziness, Shortness of breath, Nosebleeds",19,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Male,24,Hypertension,"Shortness of breath, Nosebleeds, Dizziness, Headache",50,Amlodipine (5mg),Yes
+Male,87,Covid-19,"Fever, Loss of smell",8,Remdesivir (100mg),No
+Female,79,Diabetes,"Blurred vision, Frequent urination, Fatigue",28,"Metformin (500mg), Insulin (10 units)",No
+Female,37,Covid-19,"Cough, Fever, Fatigue",31,Paracetamol (500mg),No
+Male,30,Flu,"Sore throat, Sweating, Fever, Cough",76,Antihistamine (10mg),Yes
+Female,9,Diabetes,"Fatigue, Increased thirst, Blurred vision, Frequent urination",76,Insulin (10 units),Yes
+Female,67,Tuberculosis,"Night sweats, Fever, Chronic cough",18,Isoniazid (300mg),Yes
+Other,39,Covid-19,"Loss of smell, Fatigue",7,Remdesivir (100mg),No
+Female,46,Diabetes,"Blurred vision, Frequent urination",59,"Insulin (10 units), Metformin (500mg)",No
+Female,58,Flu,"Sore throat, Fever, Cough",78,Antihistamine (10mg),Yes
+Other,27,Covid-19,"Loss of smell, Fever",33,"Paracetamol (500mg), Remdesivir (100mg)",No
+Other,44,Tuberculosis,"Fever, Weight loss",54,"Isoniazid (300mg), Rifampicin (600mg)",Yes
+Male,42,Tuberculosis,"Chronic cough, Fever, Weight loss",15,Rifampicin (600mg),Yes
+Male,66,Tuberculosis,"Weight loss, Chronic cough",75,Isoniazid (300mg),Yes
+Female,58,Diabetes,"Frequent urination, Fatigue, Increased thirst, Blurred vision",63,Insulin (10 units),Yes
+Other,53,Diabetes,"Fatigue, Blurred vision",68,Insulin (10 units),Yes
+Male,68,Tuberculosis,"Chronic cough, Fever, Night sweats, Weight loss",32,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,44,Tuberculosis,"Weight loss, Fever, Chronic cough",45,"Rifampicin (600mg), Isoniazid (300mg)",Yes
+Other,35,Diabetes,"Fatigue, Frequent urination, Blurred vision, Increased thirst",20,Insulin (10 units),Yes
+Other,59,Hypertension,"Nosebleeds, Shortness of breath, Dizziness",19,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,21,Flu,"Fever, Sweating",62,Paracetamol (500mg),Yes
+Other,43,Covid-19,"Fatigue, Cough",81,Paracetamol (500mg),No
+Other,32,Diabetes,"Blurred vision, Frequent urination",81,Insulin (10 units),Yes
+Male,19,Hypertension,"Dizziness, Shortness of breath",61,Lisinopril (10mg),Yes
+Female,22,Tuberculosis,"Fever, Chronic cough, Night sweats, Weight loss",9,Isoniazid (300mg),Yes
+Male,38,Hypertension,"Nosebleeds, Dizziness, Shortness of breath, Headache",90,"Amlodipine (5mg), Lisinopril (10mg)",No
+Female,23,Diabetes,"Frequent urination, Fatigue",17,Insulin (10 units),No
+Male,11,Asthma,"Shortness of breath, Wheezing, Coughing, Chest tightness",62,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Female,50,Tuberculosis,"Chronic cough, Fever, Night sweats",16,"Isoniazid (300mg), Rifampicin (600mg)",No
+Other,77,Covid-19,"Cough, Fatigue, Fever",89,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,70,Flu,"Sweating, Cough",24,"Antihistamine (10mg), Paracetamol (500mg)",Yes
+Other,4,Tuberculosis,"Night sweats, Weight loss, Fever, Chronic cough",74,Rifampicin (600mg),Yes
+Female,81,Flu,"Cough, Sweating",22,Paracetamol (500mg),No
+Female,68,Flu,"Cough, Sweating, Fever, Sore throat",83,Antihistamine (10mg),No
+Other,75,Flu,"Fever, Sweating, Cough",45,Antihistamine (10mg),No
+Female,26,Tuberculosis,"Night sweats, Chronic cough, Fever",78,Isoniazid (300mg),No
+Male,10,Covid-19,"Cough, Loss of smell, Fever",83,Remdesivir (100mg),No
+Male,42,Flu,"Cough, Sore throat, Sweating",57,"Paracetamol (500mg), Antihistamine (10mg)",No
+Female,59,Hypertension,"Nosebleeds, Dizziness, Shortness of breath",28,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Female,6,Asthma,"Chest tightness, Shortness of breath, Coughing, Wheezing",72,Albuterol (90mcg),Yes
+Other,32,Migraine,"Aura, Sensitivity to light, Throbbing pain",24,Sumatriptan (50mg),Yes
+Other,88,Covid-19,"Loss of smell, Fever",10,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,31,Diabetes,"Increased thirst, Blurred vision",15,"Insulin (10 units), Metformin (500mg)",No
+Other,13,Flu,"Sweating, Cough",32,"Antihistamine (10mg), Paracetamol (500mg)",No
+Other,35,Covid-19,"Cough, Loss of smell, Fatigue",50,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Other,74,Hypertension,"Shortness of breath, Dizziness, Headache, Nosebleeds",75,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Other,10,Migraine,"Nausea, Aura, Sensitivity to light, Throbbing pain",46,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Male,25,Covid-19,"Loss of smell, Fatigue, Cough, Fever",63,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Male,66,Flu,"Sore throat, Sweating, Fever, Cough",33,Antihistamine (10mg),Yes
+Male,42,Migraine,"Throbbing pain, Sensitivity to light, Aura",45,"Sumatriptan (50mg), Ibuprofen (400mg)",Yes
+Male,42,Migraine,"Throbbing pain, Aura, Nausea, Sensitivity to light",15,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Female,59,Flu,"Sweating, Fever, Cough",43,Paracetamol (500mg),No
+Female,35,Hypertension,"Dizziness, Headache, Nosebleeds",12,Lisinopril (10mg),Yes
+Female,5,Hypertension,"Nosebleeds, Headache, Dizziness",34,"Amlodipine (5mg), Lisinopril (10mg)",Yes
+Male,23,Asthma,"Shortness of breath, Coughing, Chest tightness, Wheezing",33,"Fluticasone (100mcg), Albuterol (90mcg)",Yes
+Other,73,Migraine,"Aura, Nausea, Throbbing pain",74,"Ibuprofen (400mg), Sumatriptan (50mg)",Yes
+Other,31,Migraine,"Aura, Throbbing pain",11,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Female,2,Migraine,"Nausea, Sensitivity to light",60,"Ibuprofen (400mg), Sumatriptan (50mg)",No
+Female,45,Covid-19,"Cough, Loss of smell, Fever, Fatigue",60,"Paracetamol (500mg), Remdesivir (100mg)",Yes
+Other,7,Hypertension,"Headache, Nosebleeds, Shortness of breath, Dizziness",44,"Lisinopril (10mg), Amlodipine (5mg)",Yes
+Male,8,Flu,"Fever, Sweating",18,"Paracetamol (500mg), Antihistamine (10mg)",No
+Other,58,Tuberculosis,"Fever, Weight loss, Night sweats",78,Isoniazid (300mg),No
+Female,29,Asthma,"Coughing, Wheezing",41,"Fluticasone (100mcg), Albuterol (90mcg)",No
+Male,85,Diabetes,"Increased thirst, Blurred vision, Frequent urination, Fatigue",29,Metformin (500mg),Yes
+Female,63,Tuberculosis,"Weight loss, Chronic cough, Night sweats, Fever",65,Rifampicin (600mg),No
+Male,66,Covid-19,"Loss of smell, Fever, Fatigue, Cough",60,Paracetamol (500mg),Yes
+Other,88,Hypertension,"Nosebleeds, Dizziness",87,"Lisinopril (10mg), Amlodipine (5mg)",No
+Female,43,Migraine,"Nausea, Aura, Sensitivity to light",63,Sumatriptan (50mg),No
+Other,11,Diabetes,"Frequent urination, Fatigue, Blurred vision",79,"Insulin (10 units), Metformin (500mg)",Yes
+Female,78,Tuberculosis,"Weight loss, Night sweats",86,Isoniazid (300mg),Yes
+Other,50,Flu,"Fever, Sweating, Cough, Sore throat",65,"Antihistamine (10mg), Paracetamol (500mg)",No
+Female,84,Diabetes,"Fatigue, Blurred vision",50,Metformin (500mg),No
+Female,56,Diabetes,"Blurred vision, Increased thirst, Fatigue",90,Metformin (500mg),No
+Female,59,Hypertension,"Shortness of breath, Dizziness",75,"Lisinopril (10mg), Amlodipine (5mg)",No
+Other,39,Tuberculosis,"Fever, Chronic cough, Weight loss",11,Isoniazid (300mg),No
+Female,48,Hypertension,"Headache, Nosebleeds, Dizziness",25,Amlodipine (5mg),Yes
+Other,41,Migraine,"Nausea, Throbbing pain, Sensitivity to light",31,Sumatriptan (50mg),Yes
+Male,5,Tuberculosis,"Weight loss, Fever, Chronic cough",89,Rifampicin (600mg),No
+Female,71,Flu,"Cough, Fever, Sore throat, Sweating",84,Antihistamine (10mg),No
+Other,19,Tuberculosis,"Chronic cough, Weight loss, Fever",16,Isoniazid (300mg),No
+Male,47,Hypertension,"Nosebleeds, Shortness of breath",60,Amlodipine (5mg),No
+Male,70,Flu,"Cough, Fever",79,"Antihistamine (10mg), Paracetamol (500mg)",No
+Male,36,Covid-19,"Fatigue, Loss of smell, Cough, Fever",90,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Male,41,Diabetes,"Frequent urination, Increased thirst, Fatigue, Blurred vision",11,"Insulin (10 units), Metformin (500mg)",No
+Female,3,Flu,"Sore throat, Fever",67,Antihistamine (10mg),Yes
+Female,50,Tuberculosis,"Weight loss, Chronic cough",34,"Isoniazid (300mg), Rifampicin (600mg)",No
+Female,11,Covid-19,"Fever, Loss of smell, Fatigue",40,"Remdesivir (100mg), Paracetamol (500mg)",No
+Female,71,Diabetes,"Increased thirst, Frequent urination, Fatigue, Blurred vision",90,"Insulin (10 units), Metformin (500mg)",Yes
+Female,27,Covid-19,"Fatigue, Fever, Cough",86,"Remdesivir (100mg), Paracetamol (500mg)",Yes
+Female,69,Diabetes,"Blurred vision, Increased thirst",5,"Metformin (500mg), Insulin (10 units)",Yes
+Other,82,Asthma,"Chest tightness, Coughing",33,Albuterol (90mcg),Yes
+Male,10,Tuberculosis,"Night sweats, Chronic cough",25,Rifampicin (600mg),No
+Female,49,Tuberculosis,"Weight loss, Chronic cough, Fever, Night sweats",53,Rifampicin (600mg),Yes
+Male,2,Tuberculosis,"Fever, Chronic cough, Weight loss, Night sweats",45,Rifampicin (600mg),Yes
+Female,85,Flu,"Sore throat, Cough",86,Antihistamine (10mg),No
+Other,7,Hypertension,"Dizziness, Headache, Shortness of breath, Nosebleeds",56,"Amlodipine (5mg), Lisinopril (10mg)",No
+Female,64,Migraine,"Aura, Nausea, Throbbing pain, Sensitivity to light",12,"Sumatriptan (50mg), Ibuprofen (400mg)",No
+Female,80,Flu,"Sore throat, Cough, Fever",24,Antihistamine (10mg),Yes
+Female,68,Covid-19,"Fever, Cough, Fatigue, Loss of smell",56,"Remdesivir (100mg), Paracetamol (500mg)",No
