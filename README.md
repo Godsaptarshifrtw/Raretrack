@@ -14,7 +14,7 @@ Features
 
 INSTALLATION
 
-We will provide the Apk file in the repo once its completely built.
+We will provide the Apk file in the repo once its completely built for now the apk is available in build\app\outputs\flutter-apk\app-release.apk.
 or
 Clone the Repository and then download the packages using 
 flutter pub get
