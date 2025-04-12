@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823959875719",
+    "project_id": "dapp03-f1ab1",
+    "storage_bucket": "dapp03-f1ab1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823959875719:android:47e4369a6a4f42ba1fc822",
+        "android_client_info": {
+          "package_name": "com.example.rare_disease_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6ve9adi0fzoydH4E4ANgd3yek36D0vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
