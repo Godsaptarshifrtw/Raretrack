@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:rare_disease_app/screens/login_screen.dart';
+import 'package:rare_disease_app/services/firebase_service.dart';
 
 class SignupScreen extends StatefulWidget {
   const SignupScreen({super.key});
@@ -139,12 +141,35 @@ class _SignupScreenState extends State<SignupScreen> {
                       SizedBox(
                         width: double.infinity,
                         child: ElevatedButton(
-                          onPressed: () {
+                          onPressed: () async {
                             if (_formKey.currentState!.validate()) {
-                              ScaffoldMessenger.of(context).showSnackBar(
-                                const SnackBar(
-                                    content: Text("Signed up successfully!")),
-                              );
+
+                                final service = FirebaseService();
+                                String? error = await service.signUp(
+                                  name: _nameController.text.trim(),
+                                  email: _emailController.text.trim(),
+                                  password: _passwordController.text.trim(),
+                                  phone: _phoneController.text.trim(),
+                                  age: _ageController.text.trim(),
+                                  gender: _selectedGender,
+                                );
+
+                                if (error == null) {
+                                  ScaffoldMessenger.of(context).showSnackBar(
+                                    const SnackBar(content: Text("Signed up successfully!")),
+
+                                  );
+                                  Navigator.push(
+                                    context,
+                                    MaterialPageRoute(builder: (context) => const LoginScreen()),
+                                  );
+                                  // Optionally navigate to another screen
+                                } else {
+                                  ScaffoldMessenger.of(context).showSnackBar(
+                                    SnackBar(content: Text(error)),
+                                  );
+                                }
+
                               // You can now handle the signup logic here
                             }
                           },

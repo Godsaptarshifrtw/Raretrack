@@ -4,6 +4,7 @@ class UserModel {
   final String email;
   final String age;
   final String gender;
+  final String phone;
   final String? address;
   final String? height;
   final String? weight;
@@ -16,6 +17,7 @@ class UserModel {
     required this.email,
     required this.age,
     required this.gender,
+    required this.phone,
      this.address,
      this.height,
      this.weight,
@@ -31,6 +33,7 @@ class UserModel {
       'email': email,
       'age': age,
       'gender': gender,
+      'phone': phone,
       'address': address ?? '',
       'height': height ?? '',
       'weight': weight ?? '',
@@ -47,6 +50,7 @@ class UserModel {
       email: map['email'],
       age: map['age'],
       gender: map['gender'],
+      phone: map['phone'],
       address: map['address'],
       height: map['height'],
       weight: map['weight'],

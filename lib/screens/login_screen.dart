@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:rare_disease_app/screens/signup_screen.dart';
+import 'package:rare_disease_app/services/firebase_service.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 void main() => runApp(const LoginApp());
 
@@ -125,12 +128,55 @@ class _LoginScreenState extends State<LoginScreen> {
                         SizedBox(
                           width: double.infinity,
                           child: ElevatedButton(
-                            onPressed: () {
+                            onPressed: () async {
                               if (_formKey.currentState!.validate()) {
-                                // Proceed with login
-                                ScaffoldMessenger.of(context).showSnackBar(
-                                  const SnackBar(content: Text("Login Successful!")),
+                                final service = FirebaseService();
+                                final userCredential = await service.signIn(
+                                  email: _emailController.text.trim(),
+                                  password: _passwordController.text,
                                 );
+
+                                if (userCredential != null) {
+                                  // Optional: Fetch extra user data using UID
+                                  final uid = userCredential.user?.uid;
+                                  if (uid != null) {
+                                    final userDoc = await FirebaseFirestore.instance
+                                        .collection('Users')
+                                        .doc(uid)
+                                        .get();
+
+                                    if (userDoc.exists) {
+                                      final userData = userDoc.data();
+                                      final name = userData?['name'];
+                                      final emaill = userData?['email'];
+                                      final gender = userData?['gender'];
+                                      final age = userData?['age'];
+                                      final phone = userData?['phone'];
+
+
+                                      ScaffoldMessenger.of(context).showSnackBar(
+                                        SnackBar(content: Text("Welcome back, $name!")),
+                                      );
+
+                                    /*  Navigator.pushReplacement(
+                                        context,
+                                        MaterialPageRoute(
+                                          builder: (_) => ProfileScreen(
+                                            name: name,
+                                            email: emaill,
+                                            gender: gender,
+                                            age: age,
+                                            phone: phone,
+                                          ),
+                                        ),
+                                      );*/
+                                    }
+                                  }
+                                } else {
+                                  ScaffoldMessenger.of(context).showSnackBar(
+                                    const SnackBar(content: Text("Login failed. Please check your credentials.")),
+                                  );
+                                }
                               }
                             },
                             style: ElevatedButton.styleFrom(
@@ -155,7 +201,10 @@ class _LoginScreenState extends State<LoginScreen> {
                 Center(
                   child: TextButton(
                     onPressed: () {
-                      // Navigate to signup page
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => const SignupScreen()),
+                      );
                     },
                     child: RichText(
                       text: TextSpan(
