@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   final List<String> _titles = [
     "Profile",
-    "Prediction",
+    "Disease Prediction",
     "Prediction History",
   ];
 
