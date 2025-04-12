@@ -1,18 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:rare_disease_app/screens/past%20prediction_screen.dart';
+import 'package:rare_disease_app/screens/prediction_screen.dart';
+import 'package:rare_disease_app/screens/profile_screen.dart';
 
-void main() => runApp(const MyApp());
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      home: const HomeScreen(),
-    );
-  }
-}
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -71,48 +61,3 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
-
-/// Profile Screen
-class ProfileScreen extends StatelessWidget {
-  const ProfileScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Center(
-      child: Text(
-        'Welcome to your Profile!',
-        style: TextStyle(fontSize: 18),
-      ),
-    );
-  }
-}
-
-/// Prediction Screen
-class PredictionScreen extends StatelessWidget {
-  const PredictionScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Center(
-      child: Text(
-        'Make your prediction here!',
-        style: TextStyle(fontSize: 18),
-      ),
-    );
-  }
-}
-
-/// Prediction History Screen
-class PredictionHistoryScreen extends StatelessWidget {
-  const PredictionHistoryScreen({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return const Center(
-      child: Text(
-        'View your prediction history!',
-        style: TextStyle(fontSize: 18),
-      ),
-    );
-  }
-}//for comm

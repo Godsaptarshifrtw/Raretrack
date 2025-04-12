@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rare_disease_app/firebase_options.dart';
+import 'package:rare_disease_app/screens/home_screen.dart';
 import 'package:rare_disease_app/screens/login_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:  LoginScreen(), // ✅ Use your external login screen here
+      home:  HomeScreen(), // ✅ Use your external login screen here
     );
   }
 }
