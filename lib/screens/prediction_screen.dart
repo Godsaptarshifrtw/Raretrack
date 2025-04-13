@@ -173,12 +173,14 @@ class _PredictionScreenState extends State<PredictionScreen> {
                                   ScaffoldMessenger.of(context).showSnackBar(
                                     const SnackBar(content: Text("Profile updated successfully!")),
                                   );
+                                  Navigator.pushNamed(context, '/predict');
                                 } catch (e) {
                                   print("Error updating profile: $e");
                                   ScaffoldMessenger.of(context).showSnackBar(
                                     const SnackBar(content: Text("Failed to update profile.")),
                                   );
                                 }
+
                               }
                             },
 

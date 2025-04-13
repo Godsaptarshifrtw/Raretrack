@@ -26,7 +26,8 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home:  LoginScreen(),
-      routes: {'/login': (context) => const LoginScreen(),}// ✅ Use your external login screen here
+      routes: {'/login': (context) => const LoginScreen(),
+           /*     '/predict': (context) =>const PredictOutputScreen()*/}// ✅ Use your external login screen here
     );
   }
 }
