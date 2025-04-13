@@ -16,4 +16,4 @@ class PlaceCard extends StatelessWidget {
       ),
     );
   }
-}//
+}
