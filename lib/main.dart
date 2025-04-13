@@ -25,7 +25,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:  HomeScreen(), // ✅ Use your external login screen here
+      home:  LoginScreen(),
+      routes: {'/login': (context) => const LoginScreen(),}// ✅ Use your external login screen here
     );
   }
 }

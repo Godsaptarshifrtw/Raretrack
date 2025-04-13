@@ -138,54 +138,61 @@ class _SignupScreenState extends State<SignupScreen> {
                       const SizedBox(height: 25),
 
                       /// Sign Up Button
-                      SizedBox(
-                        width: double.infinity,
-                        child: ElevatedButton(
-                          onPressed: () async {
-                            if (_formKey.currentState!.validate()) {
+                      Column(
+                        children: [
+                          SizedBox(
+                            width: double.infinity,
+                            child: ElevatedButton(
+                              onPressed: () async {
+                                if (_formKey.currentState!.validate()) {
 
-                                final service = FirebaseService();
-                                String? error = await service.signUp(
-                                  name: _nameController.text.trim(),
-                                  email: _emailController.text.trim(),
-                                  password: _passwordController.text.trim(),
-                                  phone: _phoneController.text.trim(),
-                                  age: _ageController.text.trim(),
-                                  gender: _selectedGender,
-                                );
+                                    final service = FirebaseService();
+                                    String? error = await service.signUp(
+                                      name: _nameController.text.trim(),
+                                      email: _emailController.text.trim(),
+                                      password: _passwordController.text.trim(),
+                                      phone: _phoneController.text.trim(),
+                                      age: _ageController.text.trim(),
+                                      gender: _selectedGender,
+                                    );
 
-                                if (error == null) {
-                                  ScaffoldMessenger.of(context).showSnackBar(
-                                    const SnackBar(content: Text("Signed up successfully!")),
+                                    if (error == null) {
+                                      ScaffoldMessenger.of(context).showSnackBar(
+                                        const SnackBar(content: Text("Signed up successfully!")),
 
-                                  );
-                                  Navigator.push(
-                                    context,
-                                    MaterialPageRoute(builder: (context) => const LoginScreen()),
-                                  );
-                                  // Optionally navigate to another screen
-                                } else {
-                                  ScaffoldMessenger.of(context).showSnackBar(
-                                    SnackBar(content: Text(error)),
-                                  );
+                                      );
+                                      Navigator.push(
+                                        context,
+                                        MaterialPageRoute(builder: (context) => const LoginScreen()),
+                                      );
+                                      // Optionally navigate to another screen
+                                    } else {
+                                      ScaffoldMessenger.of(context).showSnackBar(
+                                        SnackBar(content: Text(error)),
+                                      );
+                                    }
+
+                                  // You can now handle the signup logic here
                                 }
-
-                              // You can now handle the signup logic here
-                            }
-                          },
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: violet,
-                            padding: const EdgeInsets.symmetric(vertical: 14),
-                            shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(10),
+                              },
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor: violet,
+                                padding: const EdgeInsets.symmetric(vertical: 14),
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(10),
+                                ),
+                              ),
+                              child: const Text(
+                                "Sign Up",
+                                style:
+                                TextStyle(fontSize: 16, color: Colors.white),
+                              ),
                             ),
                           ),
-                          child: const Text(
-                            "Sign Up",
-                            style:
-                            TextStyle(fontSize: 16, color: Colors.white),
-                          ),
-                        ),
+                          TextButton(onPressed: () {
+                            Navigator.popAndPushNamed(context, '/login');
+                          }, child: Text("Already Have an Account? Login"))
+                        ],
                       ),
                     ],
                   ),

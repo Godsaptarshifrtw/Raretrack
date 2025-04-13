@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:rare_disease_app/screens/login_screen.dart';
 import 'package:rare_disease_app/screens/past%20prediction_screen.dart';
 import 'package:rare_disease_app/screens/prediction_screen.dart';
 import 'package:rare_disease_app/screens/profile_screen.dart';
+import 'package:rare_disease_app/services/firebase_service.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -24,12 +26,18 @@ class _HomeScreenState extends State<HomeScreen> {
     "Disease Prediction",
     "Prediction History",
   ];
-
+  FirebaseService _firebaseService = FirebaseService();
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.deepPurple, // Set background color
       appBar: AppBar(
+        actions: [
+          IconButton(onPressed: () {
+            _firebaseService.signOut();
+            Navigator.popAndPushNamed(context, '/login');
+          }, icon: Icon(Icons.logout))
+        ],
         title: Text(_titles[_currentIndex]),
         backgroundColor: Colors.deepPurple,
       ),

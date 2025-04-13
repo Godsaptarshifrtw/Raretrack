@@ -45,14 +45,17 @@ class _LoginScreenState extends State<LoginScreen> {
             child: Column(
               children: [
                 const SizedBox(height: 50),
-                Align(
-                  alignment: Alignment.centerLeft,
-                  child: Text(
-                    "Welcome Back 👋",
-                    style: TextStyle(
-                      fontSize: 32,
-                      fontWeight: FontWeight.bold,
-                      color: violet,
+                Padding(
+                  padding: EdgeInsetsDirectional.fromSTEB(16.0,0.0,0.0,0.0),
+                  child: Align(
+                    alignment: Alignment.center,
+                    child: Text(
+                      "Welcome to rareTrack !!!",
+                      style: TextStyle(
+                        fontSize: 32,
+                        fontWeight: FontWeight.bold,
+                        color: violet,
+                      ),
                     ),
                   ),
                 ),
