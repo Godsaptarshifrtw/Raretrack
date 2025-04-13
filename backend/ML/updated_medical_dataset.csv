@@ -1,0 +1,657 @@
+Gender,Age,Disease Name,Symptoms,Disease Duration (days),Medications,Consult Doctor
+Male,45,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,60,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,32,Asthma,"wheezing,shortness of breath,coughing,chest tightness",40,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,18,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,55,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,28,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,70,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,42,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",60,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Male,35,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",15,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Female,12,Covid-19,"fever,cough,shortness of breath,fatigue,loss of taste and smell,sore throat",14,"Paracetamol 500mg,Vitamin C 1000mg,Zinc Sulfate 50mg",Yes
+Male,65,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",55,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,30,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",45,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,22,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Female,50,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Male,38,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",25,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Female,75,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Male,25,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Female,48,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",60,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Male,40,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",20,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Female,33,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",45,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Male,62,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",75,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Female,29,Asthma,"wheezing,shortness of breath,coughing,chest tightness",30,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Male,16,Flu,"fever,cough,sore throat,runny nose,fatigue",12,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Female,80,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",70,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Male,52,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",20,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,44,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",25,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,67,Chronic Kidney Disease,"fatigue,swelling in legs,nausea,loss of appetite,frequent urination",85,"Lisinopril 10mg,Furosemide 40mg,Erythropoietin injections",Yes
+Female,19,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",10,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,72,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",60,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,27,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Male,34,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Female,58,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",65,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Male,23,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",28,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Female,41,HIV/AIDS,"fever,night sweats,weight loss,swollen lymph nodes,fatigue",75,"Tenofovir 300mg,Emtricitabine 200mg,Efavirenz 600mg",Yes
+Male,64,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,31,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,77,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",55,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,20,Eczema,"itchy skin,redness,dry patches,swelling",30,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,49,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",60,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,36,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,53,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,26,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,68,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,15,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,82,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,39,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,71,Parkinson’s Disease,"tremors,rigidity,bradykinesia,postural instability,speech difficulties",90,"Levodopa 250mg,Carbidopa 25mg,Pramipexole 0.375mg",Yes
+Female,24,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,57,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",55,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,33,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,46,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,61,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,29,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,17,Flu,"fever,cough,sore throat,runny nose,fatigue",11,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,54,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",28,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,41,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",22,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,66,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,23,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",25,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,51,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",70,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,37,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",20,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,78,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,21,Eczema,"itchy skin,redness,dry patches,swelling",32,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,47,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,34,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",16,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,59,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",45,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,25,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",60,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,69,Asthma,"wheezing,shortness of breath,coughing,chest tightness",50,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,14,Flu,"fever,cough,sore throat,runny nose,fatigue",8,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,81,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",35,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,40,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",18,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,73,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,22,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",13,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,56,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,32,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",45,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,48,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,63,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,31,Asthma,"wheezing,shortness of breath,coughing,chest tightness",40,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,19,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,50,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,36,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,68,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,24,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,53,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,39,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,76,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,20,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,45,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,33,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,60,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,27,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,70,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,16,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,83,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,42,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,75,Chronic Kidney Disease,"fatigue,swelling in legs,nausea,loss of appetite,frequent urination",80,"Lisinopril 10mg,Furosemide 40mg,Erythropoietin injections",Yes
+Female,21,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,58,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,34,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,49,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,64,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,30,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,18,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,51,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,37,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,69,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,25,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,54,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,40,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,77,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,22,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,46,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,35,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,61,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,28,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,71,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,17,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,84,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,43,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,76,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,23,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,59,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,35,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,50,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,65,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,32,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,20,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,52,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,38,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,70,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,26,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,55,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,41,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,78,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,24,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,47,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,36,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,62,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,29,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,72,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,18,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,85,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,44,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Chronic Kidney Disease,"fatigue,swelling in legs,nausea,loss of appetite,frequent urination",80,"Lisinopril 10mg,Furosemide 40mg,Erythropoietin injections",Yes
+Female,22,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,60,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,36,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,51,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,66,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,33,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,21,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,53,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,39,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,71,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,27,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,56,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,42,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,79,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,25,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,48,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,37,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,63,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,30,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,73,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,19,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,86,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,24,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,61,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,37,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,52,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,67,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,34,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,22,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,54,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,40,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,72,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,28,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,57,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,43,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,80,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,26,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,49,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,38,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,64,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,31,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,74,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,20,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,87,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,79,Chronic Kidney Disease,"fatigue,swelling in legs,nausea,loss of appetite,frequent urination",80,"Lisinopril 10mg,Furosemide 40mg,Erythropoietin injections",Yes
+Female,25,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,62,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,38,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,53,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,68,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,35,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,23,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,55,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,41,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,73,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,29,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,58,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,44,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,81,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,27,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,50,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,39,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,65,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,32,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,75,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,21,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,88,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,47,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,80,Parkinson’s Disease,"tremors,rigidity,bradykinesia,postural instability,speech difficulties",90,"Levodopa 250mg,Carbidopa 25mg,Pramipexole 0.375mg",Yes
+Female,26,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,63,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,39,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,54,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,69,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,36,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,24,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,56,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,42,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,74,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,30,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,59,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,45,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,82,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,28,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,51,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,40,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,66,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,33,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,76,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,22,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,89,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,48,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,81,HIV/AIDS,"fever,night sweats,weight loss,swollen lymph nodes,fatigue",75,"Tenofovir 300mg,Emtricitabine 200mg,Efavirenz 600mg",Yes
+Female,27,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,64,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,40,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,55,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,70,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,37,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,57,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,43,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,75,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,31,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,60,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,46,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,83,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,29,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,52,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,41,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,67,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,34,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,77,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,23,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,49,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,82,Multiple Sclerosis,"numbness,weakness,vision problems,difficulty walking,muscle spasms",85,"Interferon Beta 1a 30mcg,Glatiramer Acetate 20mg,Methylprednisolone 1g",Yes
+Female,28,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,65,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,41,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,56,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,71,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,38,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,58,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,44,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,76,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,32,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,61,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,47,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,84,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,30,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,53,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,42,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,68,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,35,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,78,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,24,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,33,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,62,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,48,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,85,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,31,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,54,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,43,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,69,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,36,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,79,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,33,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,62,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,48,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,85,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,31,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,54,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,43,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,69,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,36,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,79,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,33,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,62,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,48,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,85,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,31,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,54,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,43,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,69,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,36,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,79,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,33,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,62,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,48,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,85,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,31,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,54,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,43,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,69,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,36,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,79,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,33,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,62,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,48,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,85,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,31,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,54,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,43,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,69,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,36,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,79,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,33,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,62,Hepatitis,"fade,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,48,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,85,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,31,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,54,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,43,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,69,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,36,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,79,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,77,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,33,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,62,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,48,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,85,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,31,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,54,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,43,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,69,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,36,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,79,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,25,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,51,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,84,Crohn’s Disease,"abdominal pain,diarrhea,weight loss,fatigue,bloody stools",75,"Mesalamine 800mg,Prednisone 20mg,Azathioprine 50mg",Yes
+Female,30,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,67,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,43,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,58,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,73,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,40,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,28,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,60,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,46,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,78,Osteoarthritis,"joint pain,stiffness,swelling,reduced range of motion",60,"Paracetamol 500mg,Diclofenac 50mg,Glucosamine 500mg",Yes
+Female,34,Acne,"pimples,blackheads,whiteheads,inflammation,skin irritation",30,"Benzoyl Peroxide 5%,Clindamycin Gel,Isotretinoin 10mg",No
+Male,63,Hepatitis,"fatigue,jaundice,nausea,abdominal pain,loss of appetite",65,"Tenofovir 300mg,Entecavir 0.5mg,Interferon injections",Yes
+Female,49,Gastritis,"stomach pain,nausea,indigestion,vomiting,loss of appetite",22,"Omeprazole 20mg,Ranitidine 150mg,Sucralfate 1g",No
+Male,86,Anemia,"fatigue,pale skin,dizziness,shortness of breath,cold hands and feet",50,"Ferrous Sulfate 325mg,Folic Acid 5mg,Vitamin B12 injections",Yes
+Female,32,Eczema,"itchy skin,redness,dry patches,swelling",35,"Hydrocortisone Cream,Tacrolimus Ointment,Moisturizers",No
+Male,55,Thyroid Disorder,"fatigue,weight gain/loss,dry skin,hair thinning,sensitivity to cold/heat",55,"Levothyroxine 50mcg,Methimazole 5mg",Yes
+Female,44,Pneumonia,"fever,cough,chest pain,shortness of breath,fatigue",18,"Azithromycin 500mg,Ceftriaxone 1g,Paracetamol 500mg",Yes
+Male,70,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",50,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,37,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",65,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,80,Asthma,"wheezing,shortness of breath,coughing,chest tightness",45,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,26,Flu,"fever,cough,sore throat,runny nose,fatigue",9,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,90,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",30,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,50,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
+Male,83,Tuberculosis,"persistent cough,chest pain,night sweats,fatigue,blood in sputum",80,"Isoniazid 300mg,Rifampicin 600mg,Pyrazinamide 1500mg",Yes
+Female,29,UTI,"painful urination,frequent urination,cloudy urine,lower abdominal pain",12,"Nitrofurantoin 100mg,Ciprofloxacin 500mg,Paracetamol 500mg",Yes
+Male,66,Depression,"persistent sadness,loss of interest,fatigue,sleep disturbances,thoughts of death",50,"Fluoxetine 20mg,Sertraline 50mg,Bupropion 150mg",Yes
+Female,42,Anxiety,"restlessness,rapid heartbeat,difficulty concentrating,muscle tension",40,"Alprazolam 0.5mg,Clonazepam 0.25mg,Buspirone 10mg",Yes
+Male,57,Hypertension,"headaches,dizziness,shortness of breath,blurred vision",55,"Amlodipine 5mg,Losartan 50mg,Hydrochlorothiazide 25mg",Yes
+Female,72,Diabetes,"excessive thirst,frequent urination,fatigue,blurred vision,slow healing wounds",70,"Metformin 500mg,Insulin 10 units,Glimepiride 2mg",Yes
+Male,39,Asthma,"wheezing,shortness of breath,coughing,chest tightness",35,"Salbutamol 100mcg,Budesonide 200mcg,Montelukast 10mg",Yes
+Female,27,Flu,"fever,cough,sore throat,runny nose,fatigue",10,"Paracetamol 500mg,Antihistamine 10mg,Cough Syrup",No
+Male,59,Migraine,"severe headache,nausea,sensitivity to light and sound,visual disturbances",25,"Ibuprofen 400mg,Sumatriptan 50mg,Naproxen 250mg",No
+Female,45,Allergic Rhinitis,"sneezing,itchy eyes,runny nose,nasal congestion",20,"Levocetirizine 5mg,Nasal corticosteroids",No
