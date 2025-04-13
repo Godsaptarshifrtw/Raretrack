@@ -53,4 +53,8 @@ Working:
 The user sends the symptoms and other problems and his own data through a post request and the ML model is run using FASTAPI which is trained on a dataset:https://data.mendeley.com/datasets/2cxccsxydc/1
 this then sends the probable diseases that the user might have and then recommends medicine shops and doctors nearby.
 
+Warning!
+
+The backend of the app is hosted on Render using the free tier. Due to this, it may take a few minutes for the server to load, especially if it hasn't been accessed for a while. Additionally, if the server remains idle for 15 minutes, it will automatically shut down. However, it will restart automatically the next time it is accessed. We appreciate your understanding and patience while the server loads!
+
 Link to PPT: https://1drv.ms/p/c/5d5cacc9ce8f979e/EcZOK-RIwgNEsiletLGJ_hYBM_j7jGugX9D__RWOii9uMA?e=3vd21H
