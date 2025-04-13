@@ -36,6 +36,11 @@ Firebase Authentication Package
 Http Package 
 Firebase Core 
 Cloud Firestore
+Drop_Down Search
+latlong2
+geolocator
+flutter_map
+url_launcher
 Pandas 
 Scikit-learn 
 Xgboost 
