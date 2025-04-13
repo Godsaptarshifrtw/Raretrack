@@ -63,10 +63,7 @@ class _HomeScreenState extends State<HomeScreen> {
             icon: Icon(Icons.analytics),
             label: 'Predict',
           ),
-          BottomNavigationBarItem(
-            icon: Icon(Icons.history),
-            label: 'History',
-          ),
+
         ],
       ),
     );
