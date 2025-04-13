@@ -72,4 +72,4 @@ class UserModel {
       Days: map['Days'],
     );
   }
-}
+}//

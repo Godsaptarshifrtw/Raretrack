@@ -27,4 +27,4 @@ class OSMService {
       throw Exception("Failed to fetch nearby places");
     }
   }
-}
+}//
