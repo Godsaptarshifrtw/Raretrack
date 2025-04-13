@@ -11,6 +11,10 @@ class UserModel {
   final String? bmi;
   final List<String>? pastOperations;
   final List<String>? diseases;
+  final List<String>? Symptoms;
+  final String? Days;
+
+
 
   UserModel({
     required this.uid,
@@ -25,6 +29,8 @@ class UserModel {
      this.weight,
      this.pastOperations,
      this.diseases,
+     this.Symptoms,
+      this.Days,
   });
 
 
@@ -42,6 +48,8 @@ class UserModel {
       'weight': weight ?? '',
       'pastOperations': pastOperations ?? [],
       'diseases': diseases ?? [],
+      'Symptoms': Symptoms ?? [],
+      'Days': Days ?? '',
     };
   }
 
@@ -60,6 +68,8 @@ class UserModel {
       weight: map['weight'],
       pastOperations: List<String>.from(map['pastOperations'] ?? []),
       diseases: List<String>.from(map['diseases'] ?? []),
+      Symptoms: List<String>.from(map['Symptoms'] ?? []),
+      Days: map['Days'],
     );
   }
 }

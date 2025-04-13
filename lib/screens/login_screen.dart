@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:rare_disease_app/screens/home_screen.dart';
 import 'package:rare_disease_app/screens/profile_screen.dart';
 import 'package:rare_disease_app/screens/signup_screen.dart';
 import 'package:rare_disease_app/services/firebase_service.dart';
@@ -162,7 +163,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                       Navigator.pushReplacement(
                                         context,
                                         MaterialPageRoute(
-                                          builder: (_) => ProfileScreen(
+                                          builder: (_) => HomeScreen(
                                           ),
                                         ),
                                       );
