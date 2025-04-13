@@ -210,7 +210,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
           children: [
             // Header
             Container(
-              height: 200,
+              height: 240,
               width: double.infinity,
               decoration: const BoxDecoration(
                 color: Colors.deepPurple,
@@ -224,7 +224,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                 children: [
                   const CircleAvatar(
                     radius: 80,
-                    backgroundImage: AssetImage('assets/pp.webp'),
+                    backgroundImage: AssetImage('assets/pp.jpg'),
                     backgroundColor: Colors.white,
                   ),
                   const SizedBox(height: 10),

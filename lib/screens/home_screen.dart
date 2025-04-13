@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:rare_disease_app/screens/login_screen.dart';
-
 import 'package:rare_disease_app/screens/prediction_screen.dart';
 import 'package:rare_disease_app/screens/profile_screen.dart';
 import 'package:rare_disease_app/services/firebase_service.dart';
@@ -21,23 +20,43 @@ class _HomeScreenState extends State<HomeScreen> {
   ];
 
   final List<String> _titles = [
-    "Profile",
+    "",
     "Disease Prediction",
-    "Prediction History",
   ];
   FirebaseService _firebaseService = FirebaseService();
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.deepPurple, // Set background color
       appBar: AppBar(
         actions: [
-          IconButton(onPressed: () {
-            _firebaseService.signOut();
-            Navigator.popAndPushNamed(context, '/login');
-          }, icon: Icon(Icons.logout))
+          IconButton(
+            onPressed: () {
+              _firebaseService.signOut();
+              Navigator.popAndPushNamed(context, '/login');
+            },
+            icon: Icon(
+              Icons.logout,
+              color: Colors.white, // 👈 sets the icon color to white
+            ),
+          ),
         ],
-        title: Text(_titles[_currentIndex]),
+
+        title: Text(
+          _titles[_currentIndex],
+          style: TextStyle(
+            color: _titles[_currentIndex] == "Disease Prediction"
+                ? Colors.white.withOpacity(0.7) // Sets opacity to 70%
+                : Colors.black,
+            fontSize: _titles[_currentIndex] == "Disease Prediction"
+                ? 22 // Sets smaller font size for "Disease Prediction"
+                : 25, // Default font size for other titles
+            fontFamily: _titles[_currentIndex] == "Disease Prediction"
+                ? 'Roboto' // Sets font family for Disease Prediction (change to any available font or custom font)
+                : 'Arial', // Default font family for other titles
+          ),
+        ),
         backgroundColor: Colors.deepPurple,
       ),
       body: Container(
@@ -63,7 +82,6 @@ class _HomeScreenState extends State<HomeScreen> {
             icon: Icon(Icons.analytics),
             label: 'Predict',
           ),
-
         ],
       ),
     );

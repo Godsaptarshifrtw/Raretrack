@@ -15,41 +15,39 @@ class _PredictionScreenState extends State<PredictionScreen> {
   final TextEditingController _ageController = TextEditingController();
   final TextEditingController _genderController = TextEditingController();
   final TextEditingController _symptomNameController = TextEditingController();
-
   final TextEditingController _symptomOnsetDateController = TextEditingController();
-
   final TextEditingController _outcomeController = TextEditingController();
 
   final List<String> allSymptoms = [
-    "swelling in legs","indigestion",
-    "swelling","speech difficulties",
-    "runny nose","loss of interest","itchy eyes",
-    "weight loss","sneezing","rapid heartbeat",
-    "numbness","fever","whiteheads","skin irritation",
-    "itchy skin","fatigue","sensitivity to light and sound",
-    "fade","muscle tension","diarrhea","dry patches","tremors",
-    "bradykinesia","headaches","abdominal pain","weakness",
-    "vision problems","excessive thirst","chest pain","blackheads",
+    "swelling in legs","indigestion", "swelling","speech difficulties",
+    "runny nose","loss of interest","itchy eyes","weight loss","sneezing",
+    "rapid heartbeat","numbness","fever","whiteheads","skin irritation",
+    "itchy skin","fatigue","sensitivity to light and sound","fade","muscle tension",
+    "diarrhea","dry patches","tremors","bradykinesia","headaches","abdominal pain",
+    "weakness","vision problems","excessive thirst","chest pain","blackheads",
     "chest tightness","blood in sputum","blurred vision","cloudy urine",
-    "nasal congestion","shortness of breath","pale skin","coughing",
-    "loss of appetite","sleep disturbances","night sweats","difficulty walking",
-    "thoughts of death","joint pain","stomach pain","bloody stools","severe headache",
-    "reduced range of motion","weight gain/loss","loss of taste and smell","vomiting",
-    "wheezing","persistent sadness","hair thinning","dizziness","painful urination",
-    "jaundice","persistent cough","rigidity","inflammation","pimples","swollen lymph nodes",
-    "postural instability","restlessness","muscle spasms","slow healing wounds",
-    "frequent urination","sore throat","redness","difficulty concentrating",
-    "visual disturbances","cold hands and feet","stiffness","lower abdominal pain",
-    "cough","dry skin","sensitivity to cold/heat","nausea",
+    "nasal congestion","shortness of breath","pale skin","coughing","loss of appetite",
+    "sleep disturbances","night sweats","difficulty walking","thoughts of death",
+    "joint pain","stomach pain","bloody stools","severe headache","reduced range of motion",
+    "weight gain/loss","loss of taste and smell","vomiting","wheezing","persistent sadness",
+    "hair thinning","dizziness","painful urination","jaundice","persistent cough",
+    "rigidity","inflammation","pimples","swollen lymph nodes","postural instability",
+    "restlessness","muscle spasms","slow healing wounds","frequent urination","sore throat",
+    "redness","difficulty concentrating","visual disturbances","cold hands and feet",
+    "stiffness","lower abdominal pain","cough","dry skin","sensitivity to cold/heat",
+    "nausea",
   ];
   List<String> selectedSymptoms = [];
 
+  String? _selectedGender;
+  String? _diseaseName;
 
   @override
   void initState() {
     final String uid = FirebaseAuth.instance.currentUser?.uid ?? '';
     print('User UID: $uid');
-   _loadUserData();
+    _loadUserData();
+    super.initState();
   }
 
   Widget _buildHeadingField({
@@ -81,8 +79,6 @@ class _PredictionScreenState extends State<PredictionScreen> {
       ),
     );
   }
-  String? _selectedGender;
-  String? _diseaseName;
 
   @override
   Widget build(BuildContext context) {
@@ -104,10 +100,7 @@ class _PredictionScreenState extends State<PredictionScreen> {
                   bottomRight: Radius.circular(40),
                 ),
               ),
-
-
             ),
-
             // 📄 Form Section
             Expanded(
               child: Container(
@@ -134,56 +127,70 @@ class _PredictionScreenState extends State<PredictionScreen> {
                           hint: "Enter your Age",
                           controller: _ageController,
                         ),
-                      SizedBox(height: 16,),
-                      _buildSymptomSearchDropdown(),
-                        SizedBox(height: 16,),
-                        SizedBox(height: 16,),
-
-
-                        _buildHeadingField(heading: "Symptom Persisting for(Days)", controller: _symptomOnsetDateController, hint: "20(days)"),
-
-
-
+                        SizedBox(height: 16),
+                        _buildSymptomSearchDropdown(),
+                        SizedBox(height: 16),
+                        _buildHeadingField(
+                          heading: "Symptom Persisting for(Days)",
+                          controller: _symptomOnsetDateController,
+                          hint: "20(days)",
+                        ),
                         const SizedBox(height: 24),
                         ElevatedButton(
-                          onPressed: ()  async {
+                          onPressed: () async {
                             if (_formKey.currentState!.validate()) {
                               ScaffoldMessenger.of(context).showSnackBar(
                                 const SnackBar(content: Text("Predicting...")),
                               );
 
-                                final uid = FirebaseAuth.instance.currentUser?.uid;
-                                if (uid == null) return;
+                              final uid = FirebaseAuth.instance.currentUser?.uid;
+                              if (uid == null) return;
 
-                                // Prepare the updated data
-                                Map<String, dynamic> updatedData = {
-
-                                  'age': _ageController.text.trim(),
-                                  'gender': _genderController.text.trim(),
+                              // Prepare the updated data
+                              Map<String, dynamic> updatedData = {
+                                'age': _ageController.text.trim(),
+                                'gender': _genderController.text.trim(),
                                 'Symptoms': selectedSymptoms.map((c) => c.trim()).toList(),
-                                  'Days': _symptomOnsetDateController.text.trim(),
-                                };
+                                'Days': _symptomOnsetDateController.text.trim(),
+                              };
 
-                                try {
-                                  await FirebaseFirestore.instance
-                                      .collection('Users') // use your actual collection name
-                                      .doc(uid)
-                                      .update(updatedData);
+                              try {
+                                await FirebaseFirestore.instance
+                                    .collection('Users') // Use your actual collection name
+                                    .doc(uid)
+                                    .update(updatedData);
 
-                                  ScaffoldMessenger.of(context).showSnackBar(
-                                    const SnackBar(content: Text("Profile updated successfully!")),
-                                  );
-                                  Navigator.pushNamed(context, '/predict');
-                                } catch (e) {
-                                  print("Error updating profile: $e");
-                                  ScaffoldMessenger.of(context).showSnackBar(
-                                    const SnackBar(content: Text("Failed to update profile.")),
-                                  );
-                                }
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(content: Text("Profile updated successfully!")),
+                                );
 
+                                // Prepare the prediction model for the next screen (mocking it here)
+                                PredictionModel prediction = PredictionModel(
+                                  predictedDisease: "Disease XYZ",
+                                  probability: 0.85,
+                                  topPredictions: [
+                                    TopPrediction(disease: "Disease ABC", probability: 0.9),
+                                    TopPrediction(disease: "Disease DEF", probability: 0.75),
+                                  ],
+                                  medications: ["Med 1", "Med 2"],
+                                  consultDoctor: "Yes, see a doctor.",
+                                );
+
+                                // Navigate to PredictionOutputScreen and pass the prediction data
+                                Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => PredictionOutputScreen(prediction: prediction),
+                                  ),
+                                );
+                              } catch (e) {
+                                print("Error updating profile: $e");
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(content: Text("Failed to update profile.")),
+                                );
                               }
-                            },
-
+                            }
+                          },
                           style: ElevatedButton.styleFrom(
                             backgroundColor: violet,
                             padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 40),
@@ -208,24 +215,6 @@ class _PredictionScreenState extends State<PredictionScreen> {
     );
   }
 
-  Widget _buildField(String label, TextEditingController controller,
-      {TextInputType inputType = TextInputType.text, String? hint}) {
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 16),
-      child: TextFormField(
-        controller: controller,
-        keyboardType: inputType,
-        decoration: InputDecoration(
-          labelText: label,
-          hintText: hint,
-          border: OutlineInputBorder(borderRadius: BorderRadius.circular(8)),
-        ),
-        validator: (value) => value == null || value.isEmpty ? "Enter $label" : null,
-      ),
-    );
-  }
-/*
-          },*/
   Widget _buildSymptomSearchDropdown() {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
@@ -312,46 +301,115 @@ class _PredictionScreenState extends State<PredictionScreen> {
             );
           },
         ),
-
-
       ],
     );
   }
-
-
-
 
   void _loadUserData() async {
     final uid = FirebaseAuth.instance.currentUser?.uid;
     if (uid == null) return;
 
     try {
+      DocumentSnapshot user;
       DocumentSnapshot userDoc = await FirebaseFirestore.instance
           .collection('Users')
           .doc(uid)
           .get();
 
       if (userDoc.exists) {
-        final data = userDoc.data() as Map<String, dynamic>;
-
         setState(() {
-
-          _ageController.text = data['age'] ?? '';
-          _genderController.text = data['gender'] ?? '';
-
-
-          // BMI is calculated if not fetched from server
-
-
-
+          _ageController.text = userDoc['age'] ?? '';
+          _genderController.text = userDoc['gender'] ?? '';
+          selectedSymptoms = List<String>.from(userDoc['Symptoms'] ?? []);
+          _symptomOnsetDateController.text = userDoc['Days'] ?? '';
         });
-
-        print("User data loaded");
-      } else {
-        print("User document not found");
       }
     } catch (e) {
-      print("Error fetching user data: $e");
+      print('Error loading user data: $e');
     }
+  }
+}
+
+class PredictionModel {
+  final String predictedDisease;
+  final double probability;
+  final List<TopPrediction> topPredictions;
+  final List<String> medications;
+  final String consultDoctor;
+
+  PredictionModel({
+    required this.predictedDisease,
+    required this.probability,
+    required this.topPredictions,
+    required this.medications,
+    required this.consultDoctor,
+  });
+}
+
+class TopPrediction {
+  final String disease;
+  final double probability;
+
+  TopPrediction({required this.disease, required this.probability});
+}
+
+class PredictionOutputScreen extends StatelessWidget {
+  final PredictionModel prediction;
+
+  const PredictionOutputScreen({super.key, required this.prediction});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Prediction Results"),
+      ),
+      body: Padding(
+        padding: const EdgeInsets.all(20.0),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Text(
+              "Predicted Disease: ${prediction.predictedDisease}",
+              style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 10),
+            Text(
+              "Probability: ${(prediction.probability * 100).toStringAsFixed(2)}%",
+              style: const TextStyle(fontSize: 16),
+            ),
+            const SizedBox(height: 20),
+            const Text(
+              "Top Predictions:",
+              style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 10),
+            ...prediction.topPredictions.map((topPrediction) {
+              return Text(
+                "${topPrediction.disease}: ${(topPrediction.probability * 100).toStringAsFixed(2)}%",
+                style: const TextStyle(fontSize: 14),
+              );
+            }).toList(),
+            const SizedBox(height: 20),
+            const Text(
+              "Suggested Medications:",
+              style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 10),
+            ...prediction.medications.map((medication) {
+              return Text(
+                medication,
+                style: const TextStyle(fontSize: 14),
+              );
+            }).toList(),
+            const SizedBox(height: 20),
+            Text(
+              "Consult a doctor: ${prediction.consultDoctor}",
+              style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
+            ),
+          ],
+        ),
+      ),
+    );
   }
 }
