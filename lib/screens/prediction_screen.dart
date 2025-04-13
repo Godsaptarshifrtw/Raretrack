@@ -21,21 +21,26 @@ class _PredictionScreenState extends State<PredictionScreen> {
   final TextEditingController _outcomeController = TextEditingController();
 
   final List<String> allSymptoms = [
-    "Abdominal pain", "Abnormal blood clotting", "Abnormal bleeding", "Agitation",
-    "Anemia", "Anxiety", "Back pain", "Bleeding gums", "Blood in stool",
-    "Blood in urine", "Blurred vision", "Bruising", "Chest pain", "Chills",
-    "Cognitive impairment", "Confusion", "Cough", "Dark urine", "Dehydration",
-    "Depression", "Diarrhea", "Dizziness", "Dry mouth", "Dysuria", "Fatigue",
-    "Fever", "Hair loss", "Headache", "Hearing loss", "Heart palpitations",
-    "High blood pressure", "Hot flashes", "Impaired wound healing",
-    "Immunosuppression", "Increased appetite", "Indigestion", "Inflammation",
-    "Insomnia", "Irregular heartbeat", "Itching", "Jaundice", "Joint pain",
-    "Loss of appetite", "Low blood pressure", "Memory loss", "Muscle cramps",
-    "Muscle pain", "Nausea", "Numbness", "Pale skin", "Palpitations", "Poor circulation",
-    "Rash", "Seizures", "Shortness of breath", "Skin ulcers", "Sleep disturbances",
-    "Sneezing", "Sore throat", "Stomach cramps", "Sweating", "Swelling",
-    "Swollen lymph nodes", "Tingling sensation", "Tremors", "Vision changes",
-    "Vomiting", "Weakness", "Weight gain", "Weight loss"
+    "swelling in legs","indigestion",
+    "swelling","speech difficulties",
+    "runny nose","loss of interest","itchy eyes",
+    "weight loss","sneezing","rapid heartbeat",
+    "numbness","fever","whiteheads","skin irritation",
+    "itchy skin","fatigue","sensitivity to light and sound",
+    "fade","muscle tension","diarrhea","dry patches","tremors",
+    "bradykinesia","headaches","abdominal pain","weakness",
+    "vision problems","excessive thirst","chest pain","blackheads",
+    "chest tightness","blood in sputum","blurred vision","cloudy urine",
+    "nasal congestion","shortness of breath","pale skin","coughing",
+    "loss of appetite","sleep disturbances","night sweats","difficulty walking",
+    "thoughts of death","joint pain","stomach pain","bloody stools","severe headache",
+    "reduced range of motion","weight gain/loss","loss of taste and smell","vomiting",
+    "wheezing","persistent sadness","hair thinning","dizziness","painful urination",
+    "jaundice","persistent cough","rigidity","inflammation","pimples","swollen lymph nodes",
+    "postural instability","restlessness","muscle spasms","slow healing wounds",
+    "frequent urination","sore throat","redness","difficulty concentrating",
+    "visual disturbances","cold hands and feet","stiffness","lower abdominal pain",
+    "cough","dry skin","sensitivity to cold/heat","nausea",
   ];
   List<String> selectedSymptoms = [];
 
