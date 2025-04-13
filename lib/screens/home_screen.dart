@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:rare_disease_app/screens/login_screen.dart';
-import 'package:rare_disease_app/screens/past%20prediction_screen.dart';
+
 import 'package:rare_disease_app/screens/prediction_screen.dart';
 import 'package:rare_disease_app/screens/profile_screen.dart';
 import 'package:rare_disease_app/services/firebase_service.dart';
@@ -18,7 +18,6 @@ class _HomeScreenState extends State<HomeScreen> {
   final List<Widget> _screens = const [
     ProfileScreen(),
     PredictionScreen(),
-    PredictionHistoryScreen(),
   ];
 
   final List<String> _titles = [

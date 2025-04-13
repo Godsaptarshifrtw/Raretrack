@@ -132,6 +132,7 @@ class _PredictionScreenState extends State<PredictionScreen> {
                       SizedBox(height: 16,),
                       _buildSymptomSearchDropdown(),
                         SizedBox(height: 16,),
+                        SizedBox(height: 16,),
 
 
                         _buildHeadingField(heading: "Symptom Persisting for(Days)", controller: _symptomOnsetDateController, hint: "20(days)"),
