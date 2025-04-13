@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:  LoginScreen(), // ✅ Use your external login screen here
+      home:  HomeScreen(), // ✅ Use your external login screen here
     );
   }
 }
